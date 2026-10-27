@@ -74,4 +74,4 @@ This policy is written in English. Translations are provided for convenience onl
 
 Questions: support@setjot.app, or in the app under Settings, About, Contact.
 
-[Terms](terms) · [Privacy Policy](privacy) · [Impressum](impressum)
+[Terms](terms) · [Privacy Policy](privacy) · [Impressum](../impressum)

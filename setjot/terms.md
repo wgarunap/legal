@@ -84,4 +84,4 @@ These terms are written in English. Translations are provided for convenience on
 
 These terms are governed by the laws of the country where the developer lives, without taking away the protections that mandatory consumer law gives you where you live. Questions: support@setjot.app, or in the app under Settings, About, Contact.
 
-[Terms](terms) · [Privacy Policy](privacy) · [Impressum](impressum)
+[Terms](terms) · [Privacy Policy](privacy) · [Impressum](../impressum)

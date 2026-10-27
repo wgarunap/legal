@@ -17,4 +17,4 @@ E-Mail: support@setjot.app
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.  
 We are not willing or obliged to take part in dispute resolution proceedings before a consumer arbitration board.
 
-[Terms](terms) · [Privacy Policy](privacy) · [Impressum](impressum)
+[All apps](./) · [SetJot](setjot/)

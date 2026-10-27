@@ -1,9 +1,7 @@
-# SetJot
+# Apps
 
-Offline gym tracker and log for iPhone and Android.
+Legal information for my apps.
 
-- [Terms and Conditions](terms)
-- [Privacy Policy](privacy)
-- [Impressum](impressum)
+- [SetJot](setjot/): [Terms](setjot/terms) · [Privacy Policy](setjot/privacy)
 
-Support: support@setjot.app
+[Impressum](impressum)
