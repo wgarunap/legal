@@ -1,0 +1,22 @@
+---
+layout: base
+---
+{%- assign app = site.data.apps | where: "slug", page.app | first -%}
+{%- assign lang = page.lang | default: "en" -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- capture home %}/{{ app.slug }}/{% unless lang == "en" %}{{ lang }}/{% endunless %}{% endcapture -%}
+<main class="wrap">
+  <nav class="crumbs site-only" aria-label="Breadcrumb">
+    <a href="{{ '/' | relative_url }}">{{ t.apps }}</a>
+    <span aria-hidden="true">/</span>
+    <a class="crumb-app" href="{{ home | relative_url }}"><img src="{{ '/' | append: app.slug | append: '/icon.png' | relative_url }}" alt="" width="20" height="20">{{ app.name }}</a>
+  </nav>
+
+  <section class="soon">
+    <img src="{{ '/' | append: app.slug | append: '/icon.png' | relative_url }}" alt="{{ app.name }} icon" width="96" height="96">
+    <p class="soon-tag">{{ app.name }}</p>
+    <h1>{{ t.soon_title }}</h1>
+    <p class="lede">{{ t.soon_body | replace: "{name}", app.name }}</p>
+    <a class="soon-back" href="{{ home | relative_url }}">{{ t.soon_back | replace: "{name}", app.name }}</a>
+  </section>
+</main>

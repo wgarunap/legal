@@ -7,6 +7,7 @@
   accent: "#0A72D6"
   accent_dark: "#3DA5FF"
   support: support@setjot.app
-  # Store pages; leave one out to hide its button. The App Store id is a placeholder until the app is live.
-  app_store: https://apps.apple.com/app/id0000000000
-  play_store: https://play.google.com/store/apps/details?id=com.euappsolutions.setjot
+  # Store pages; "soon" opens the Coming soon page, leave one out to hide its button.
+  # When live: https://apps.apple.com/app/id<APP ID> and https://play.google.com/store/apps/details?id=com.euappsolutions.setjot
+  app_store: soon
+  play_store: soon

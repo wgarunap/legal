@@ -1,10 +1,19 @@
 # Site labels per language; pages without a language use English.
 # app_store / play_store: the small line above the store name on the download buttons.
-en: { apps: Apps, website_privacy: Website privacy, app_store: Download on the, play_store: Get it on }
-de: { apps: Apps, website_privacy: Datenschutz der Website, app_store: Laden im, play_store: Jetzt bei }
-es: { apps: Apps, website_privacy: Privacidad del sitio web, app_store: Descárgalo en el, play_store: Disponible en }
-fr: { apps: Apps, website_privacy: Confidentialité du site, app_store: Télécharger dans l’, play_store: Disponible sur }
-zh: { apps: 应用, website_privacy: 网站隐私, app_store: 下载于, play_store: 立即获取于 }
-hi: { apps: ऐप्स, website_privacy: वेबसाइट गोपनीयता, app_store: डाउनलोड करें, play_store: पाएं }
-ar: { apps: التطبيقات, website_privacy: خصوصية الموقع, app_store: حمّله من, play_store: احصل عليه من }
-ja: { apps: アプリ, website_privacy: ウェブサイトのプライバシー, app_store: ダウンロードは, play_store: 今すぐ手に入れよう }
+# soon_*: the Coming soon page; {name} is the app's name.
+en: { apps: Apps, website_privacy: Website privacy, app_store: Download on the, play_store: Get it on,
+      soon_title: Coming soon, soon_body: "{name} is on its way to the App Store and Google Play. Check back soon.", soon_back: "Back to {name}" }
+de: { apps: Apps, website_privacy: Datenschutz der Website, app_store: Laden im, play_store: Jetzt bei,
+      soon_title: Demnächst verfügbar, soon_body: "{name} kommt bald in den App Store und zu Google Play. Schau bald wieder vorbei.", soon_back: "Zurück zu {name}" }
+es: { apps: Apps, website_privacy: Privacidad del sitio web, app_store: Descárgalo en el, play_store: Disponible en,
+      soon_title: Próximamente, soon_body: "{name} llegará pronto a App Store y Google Play. Vuelve pronto.", soon_back: "Volver a {name}" }
+fr: { apps: Apps, website_privacy: Confidentialité du site, app_store: Télécharger dans l’, play_store: Disponible sur,
+      soon_title: Bientôt disponible, soon_body: "{name} arrive bientôt sur l’App Store et Google Play. Reviens vite.", soon_back: "Retour à {name}" }
+zh: { apps: 应用, website_privacy: 网站隐私, app_store: 下载于, play_store: 立即获取于,
+      soon_title: 即将推出, soon_body: "{name} 即将登陆 App Store 和 Google Play，敬请期待。", soon_back: "返回 {name}" }
+hi: { apps: ऐप्स, website_privacy: वेबसाइट गोपनीयता, app_store: डाउनलोड करें, play_store: पाएं,
+      soon_title: जल्द आ रहा है, soon_body: "{name} जल्द ही App Store और Google Play पर आ रहा है। कुछ समय बाद फिर देखें।", soon_back: "{name} पर वापस जाएं" }
+ar: { apps: التطبيقات, website_privacy: خصوصية الموقع, app_store: حمّله من, play_store: احصل عليه من,
+      soon_title: قريبًا, soon_body: "سيصل {name} قريبًا إلى App Store وGoogle Play. عُد لاحقًا.", soon_back: "العودة إلى {name}" }
+ja: { apps: アプリ, website_privacy: ウェブサイトのプライバシー, app_store: ダウンロードは, play_store: 今すぐ手に入れよう,
+      soon_title: 近日公開, soon_body: "{name} はまもなく App Store と Google Play で公開されます。もうしばらくお待ちください。", soon_back: "{name} に戻る" }
