@@ -17,21 +17,21 @@ SetJot’u yükleyerek veya kullanarak bu şartları kabul edersin. Kabul etmiyo
 
 ## 2. SetJot nedir
 
-SetJot, kişisel bir antrenman günlüğüdür. Antrenmanları, programları ve vücut ölçülerini kaydeder, geçmişine ve istatistiklerine geri dönüp bakarsın. Egzersiz adları, talimatlar, nasıl yapılır rehberleri, planlar, öneriler, hesaplayıcılar ve grafikler genel bilgidir, kişisel tavsiye değildir.
+SetJot, kişisel bir antrenman günlüğüdür. Antrenmanları, programları ve vücut ölçülerini kaydedersin, geçmişine ve istatistiklerine geri dönüp bakarsın. Egzersiz adları, talimatlar, nasıl yapılır rehberleri, planlar, öneriler, hesaplayıcılar ve grafikler genel bilgidir, kişisel tavsiye değildir.
 
 ## 3. Tıbbi tavsiye değildir
 
 SetJot bir tıbbi cihaz değildir ve tıbbi, sağlıkla ilgili ya da koçluk tavsiyesi vermez. İçindeki hiçbir şey bir teşhis ya da tedavi değildir; bir doktorun, fizyoterapistin ya da nitelikli bir antrenörün yerini tutmaz.
 
-Bir antrenman programına başlamadan ya da onu değiştirmeden önce, özellikle sakatsan, hamileysen, iyileşme sürecindeysen, bir sağlık sorunun varsa ya da ilaç kullanıyorsan, nitelikli bir uzmanla konuş. Ağrı, baş dönmesi ya da kendini kötü hissetme durumunda dur ve yardım al.
+Bir antrenman programına başlamadan ya da onu değiştirmeden önce, özellikle sakatsan, hamileysen, iyileşme sürecindeysen, bir sağlık sorunun varsa ya da ilaç kullanıyorsan, nitelikli bir uzmanla konuş. Ağrı ya da baş dönmesi hissedersen veya kendini iyi hissetmezsen dur ve yardım al.
 
 ## 4. Güvenli antrenman senin sorumluluğundur
 
-Kuvvet antrenmanı yaralanma riski taşır. Antrenman yapıp yapmayacağına, ne zaman ve nasıl yapacağına sen karar verirsin. Ekipmanını kontrol et, gerektiğinde yardımcı ve güvenlik donanımı kullan, yeteneğine uygun egzersizler ve yükler seç.
+Kuvvet antrenmanı yaralanma riski taşır. Antrenman yapıp yapmayacağına, ne zaman ve nasıl yapacağına sen karar verirsin. Ekipmanını kontrol et, gerektiğinde spot atacak birinden ve güvenlik ekipmanından yararlan, yeteneğine uygun egzersizler ve ağırlıklar seç.
 
 Önerilen ağırlıklar, hesaplayıcılar ve vücut değerleri yaklaşıktır ve yanlış olabilir. Güvenmeden önce kendin kontrol et. Kendi antrenman kararlarından sen sorumlusun.
 
-SetJot’u kullanman ve içindeki her şeye uyman tamamen kendi sorumluluğundadır; ciddi yaralanma dahil antrenmanın getirdiği tüm riskleri kabul edersin.
+SetJot’u kullanmanın ve içindeki herhangi bir şeye uymanın riski tamamen sana aittir; ciddi yaralanma dahil antrenmanın getirdiği tüm riskleri kabul edersin.
 
 ## 5. Verilerin
 
@@ -43,7 +43,7 @@ SetJot’u yasalara uygun biçimde ve kendin için kullan. Yasanın bu maddeden 
 
 ## 7. Üçüncü taraflar
 
-SetJot, Apple Sağlık veya Health Connect ile çalışabilir ve başkalarının hazırladığı egzersiz videolarını YouTube üzerinden gösterir. Bunlar sahiplerine aittir ve kendi şartlarına ve politikalarına tabidir. Geliştirici bunları denetlemez; içeriklerinden, doğruluklarından ya da erişilebilirliklerinden sorumlu değildir. Bir video bilgi amacıyla gösterilir, tavsiye anlamına gelmez.
+SetJot, Apple Sağlık veya Health Connect ile çalışabilir ve başkalarının hazırladığı egzersiz videolarını YouTube üzerinden gösterir. Bunlar sahiplerine aittir ve kendi şartlarına ve politikalarına tabidir. Geliştirici bunları denetlemez; içeriklerinden, doğruluklarından ya da kullanılabilirliklerinden sorumlu değildir. Bir video bilgi amacıyla gösterilir, onay anlamına gelmez.
 
 SetJot, Google AdMob tarafından sağlanan reklamlar gösterir. Reklamlar ve tanıttıkları ürün ve hizmetler üçüncü taraflardan gelir. Geliştirici bunları oluşturmaz, seçmez ya da onaylamaz ve bunlardan sorumlu değildir; bir reklam verenle olan her işlemin seninle o reklam veren arasındadır.
 
@@ -67,7 +67,7 @@ Bu şartlardaki hiçbir şey, yasa gereği hariç tutulamayan ya da sınırlanam
 
 ## 11. Tazminat
 
-Yasanın izin verdiği ölçüde, SetJot’u kötüye kullanmandan veya bu şartları ihlal etmenden doğan her türlü talep, kayıp ve maliyetten (makul avukatlık ücretleri dahil) geliştiriciyi tazmin etmeyi ve sorumsuz tutmayı kabul edersin.
+Yasanın izin verdiği ölçüde, SetJot’u kötüye kullanmandan veya bu şartları ihlal etmenden doğan her türlü talep, kayıp ve maliyetten (makul avukatlık ücretleri dahil) geliştiriciyi tazmin etmeyi ve zarardan ari tutmayı kabul edersin.
 
 ## 12. Uygulamadaki değişiklikler
 

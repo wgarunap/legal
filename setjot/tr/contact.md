@@ -1,7 +1,7 @@
 ---
 layout: "doc"
 title: "İletişim"
-description: "Geliştiriciyle nasıl iletişime geçersin."
+description: "Geliştiriciye nasıl ulaşırsın."
 order: 3
 app: "setjot"
 lang: "tr"

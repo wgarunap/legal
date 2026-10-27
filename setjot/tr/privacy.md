@@ -13,11 +13,11 @@ lang: "tr"
 
 ## 1. Kısaca
 
-SetJot’un geliştirici tarafında hesap, analiz ya da izleme yoktur. Kaydettiklerin cihazında kalır. Geliştirici bunları almaz ve göremez. SetJot ara sıra Google AdMob tarafından sağlanan küçük bir afiş reklam gösterir; AdMob antrenman verilerini asla almaz.
+SetJot’ta hesap yoktur; geliştirici analiz ya da izleme yapmaz. Kaydettiklerin cihazında kalır. Geliştirici bunları almaz ve göremez. SetJot ara sıra Google AdMob tarafından sağlanan küçük bir afiş reklam gösterir; AdMob antrenman verilerini asla almaz.
 
 ## 2. Cihazında neler saklanır
 
-Antrenmanların, setlerin, programların, klasörlerin ve notların. Girdiğin vücut ölçüleri; kilo, vücut yağı, bel ve boy gibi. Girmeyi seçtiğin profil bilgileri; doğum günü ve cinsiyet gibi. Ayarların; birim, dil, tema ve dinlenme sayacı gibi.
+Antrenmanların, setlerin, programların, klasörlerin ve notların. Girdiğin vücut ölçüleri; kilo, vücut yağı, bel ve boy gibi. Girmeyi seçtiğin profil bilgileri; doğum tarihi ve cinsiyet gibi. Ayarların; birim, dil, tema ve dinlenme sayacı gibi.
 
 Bunlar telefonundaki uygulamanın özel depolama alanında bir veritabanında tutulur.
 
@@ -39,9 +39,9 @@ Bu isteğe bağlıdır ve yalnızca sen izin verdikten sonra başlar. SetJot, bi
 
 Yazıldıktan sonra veriler, o sağlık uygulamasında kendi gizlilik kurallarına tabi olarak durur. SetJot bunları reklam için kullanmaz ya da kimseyle paylaşmaz. Eşitleme açıkken SetJot’ta bir antrenmanı ya da vücut kaydını silmen, sağlık uygulamasından da SetJot’un yazdığı eşleşen kaydı kaldırmasını ister.
 
-## 6. Bildirimler ve kilit ekranı
+## 6. Bildirimler ve kilitli ekran
 
-Dinlenme uyarıları, telefonunun kendi kendine planladığı isteğe bağlı bildirimlerdir. Anlık bildirim sunucusu ya da hesap gerektirmezler. iPhone’da bir Canlı Etkinlik, mevcut antrenmanını kilit ekranında gösterebilir; bu da cihazda oluşturulur. Varsayılan olarak ekran antrenman sırasında açık kalır; bunu Ayarlar’dan kapatabilirsin. Bunların hiçbiri veriyi bir yere göndermez.
+Dinlenme uyarıları, telefonunun kendi kendine planladığı isteğe bağlı bildirimlerdir. Anlık bildirim sunucusu ya da hesap gerektirmezler. iPhone’da bir Canlı Etkinlik, o anki antrenmanını kilitli ekranda gösterebilir; bu da cihazda oluşturulur. Varsayılan olarak ekran antrenman sırasında açık kalır; bunu Ayarlar’dan kapatabilirsin. Bunların hiçbiri veriyi bir yere göndermez.
 
 ## 7. İnternet kullanımı
 
@@ -65,7 +65,7 @@ Telefonunun kendi yedekleme hizmeti (iCloud veya Google yedeği gibi), cihaz aya
 
 Verilerin cihazında olduğu için onları sen yönetirsin: uygulamada görüntüleyebilir, düzenleyebilir, dışa aktarabilir veya silebilir, ya da uygulamayı silerek her şeyi kaldırabilirsin. Dışa aktarmalar, Apple Sağlık veya Health Connect’teki kayıtlar ve cihaz yedekleri ayrı kopyalardır ve tutuldukları yerde silinir.
 
-Geliştirici hakkında veri tutmadığı için, geliştiricinin tarafında erişilecek ya da silinecek bir şey yoktur. Yaşadığın yerde gizlilik mevzuatından doğan haklarına sahipsen, bu araçlar ve İletişim seçeneği onları kullanma yoludur. Ayrıca yaşadığın yerdeki bir veri koruma otoritesine şikâyette bulunma hakkına da sahipsin.
+Geliştirici senin hakkında veri tutmadığı için, geliştiricinin tarafında erişilecek ya da silinecek bir şey yoktur. Yaşadığın yerdeki gizlilik mevzuatı sana haklar tanıyorsa, bu araçlar ve İletişim seçeneği onları kullanma yoludur. Ayrıca yaşadığın yerdeki bir veri koruma otoritesine şikâyette bulunma hakkına da sahipsin.
 
 GDPR ve benzeri yasalar uyarınca verilerine erişme, onları düzeltme ve silme, işlenmesini kısıtlama veya buna itiraz etme, veri taşınabilirliği ve onayını, geri çekmeden önceki işlemeyi etkilemeden, istediğin zaman geri çekme hakkına sahipsin. Reklamlar için Reklam gizliliği tercihleri’ni kullan; diğer her şey için İletişim’i kullan.
 

@@ -23,5 +23,5 @@ ko: { apps: 앱, website_privacy: 웹사이트 개인정보, app_store: 다운�
       soon_title: 곧 출시돼요, soon_body: "%name% 앱이 곧 App Store와 Google Play에 출시돼요. 조금만 기다려 주세요.", soon_back: "%name% 앱으로 돌아가기" }
 it: { apps: App, website_privacy: Privacy del sito web, app_store: Scarica su, play_store: Disponibile su,
       soon_title: In arrivo, soon_body: "%name% arriverà presto su App Store e Google Play. Torna a trovarci.", soon_back: "Torna a %name%" }
-tr: { apps: Uygulamalar, website_privacy: Web sitesi gizliliği, app_store: Şuradan indir, play_store: Şuradan al,
-      soon_title: Çok yakında, soon_body: "%name% yakında App Store ve Google Play’de olacak. Biraz sonra tekrar bak.", soon_back: "%name% sayfasına dön" }
+tr: { apps: Uygulamalar, website_privacy: Web sitesi gizliliği, app_store: Buradan indirin, play_store: Buradan edinin,
+      soon_title: Çok yakında, soon_body: "%name% yakında App Store ve Google Play’de olacak. Yakında tekrar uğra.", soon_back: "%name% sayfasına dön" }
