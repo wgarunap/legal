@@ -1,5 +1,6 @@
 <!doctype html>
-{%- assign app = site.data.apps | where: "slug", page.app | first -%}
+{%- assign app = nil -%}
+{%- if page.app -%}{%- assign app = site.data.apps | where: "slug", page.app | first -%}{%- endif -%}
 <html lang="en"{% if app %} style="--accent-l: {{ app.accent }}; --accent-d: {{ app.accent_dark }}"{% endif %}>
 <head>
   <meta charset="utf-8">
