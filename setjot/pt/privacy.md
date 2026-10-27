@@ -17,7 +17,7 @@ O SetJot não tem conta, não tem análise de uso e não tem rastreamento pelo d
 
 ## 2. O que fica no seu aparelho
 
-Seus treinos, séries, rotinas, pastas e anotações. Medidas corporais que você informa, como peso, gordura corporal, cintura e altura. Dados de perfil que você escolhe informar, como aniversário e gênero. Seus ajustes, como unidade, idioma, tema e cronômetro de descanso.
+Seus treinos, séries, rotinas, pastas e anotações. Medidas corporais que você informa, como peso, gordura corporal, cintura e altura. Dados de perfil que você escolhe informar, como data de nascimento e gênero. Seus ajustes, como unidade, idioma, tema e cronômetro de descanso.
 
 Eles ficam em um banco de dados no armazenamento privado do app, no seu celular.
 
@@ -67,7 +67,7 @@ Seus dados estão no seu aparelho, então você os controla: veja, edite, export
 
 Como o desenvolvedor não guarda dados sobre você, não há nada para acessar ou apagar do lado do desenvolvedor. Se você tem direitos previstos na lei de privacidade onde mora, essas ferramentas e a opção Contato são a forma de exercê-los. Você também tem o direito de apresentar reclamação a uma autoridade de proteção de dados onde mora.
 
-Segundo o GDPR e leis semelhantes, você tem o direito de acessar, corrigir e excluir seus dados, de restringir ou se opor ao tratamento, à portabilidade dos dados e de retirar o consentimento a qualquer momento, sem afetar o tratamento anterior à retirada. Para anúncios, use as Opções de privacidade de anúncios; para qualquer outro assunto, use Contato.
+Segundo o RGPD (GDPR) e leis semelhantes, você tem o direito de acessar, corrigir e excluir seus dados, de restringir o tratamento ou se opor a ele, o direito à portabilidade dos dados e o direito de retirar o consentimento a qualquer momento, sem afetar o tratamento feito antes da retirada. Para anúncios, use as Opções de privacidade de anúncios; para qualquer outro assunto, use Contato.
 
 ## 12. Crianças
 

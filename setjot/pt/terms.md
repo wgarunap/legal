@@ -27,7 +27,7 @@ Consulte um profissional qualificado antes de começar ou mudar um programa de t
 
 ## 4. Treinar com segurança é responsabilidade sua
 
-O treinamento de força traz risco de lesão. Você decide se, quando e como treinar. Verifique seus equipamentos, use auxiliares e equipamentos de segurança quando necessário e escolha exercícios e cargas adequados à sua capacidade.
+O treinamento de força traz risco de lesão. Você decide se, quando e como treinar. Verifique seus equipamentos, use auxiliares (spotters) e equipamentos de segurança quando necessário e escolha exercícios e cargas adequados à sua capacidade.
 
 Cargas sugeridas, calculadoras e valores corporais são aproximados e podem estar errados. Confira você mesmo antes de confiar neles. Você é responsável pelas suas próprias decisões de treino.
 
@@ -43,7 +43,7 @@ Use o SetJot de forma legal e para si mesmo. Não copie, modifique, revenda nem 
 
 ## 7. Terceiros
 
-O SetJot pode funcionar com o Apple Saúde ou o Health Connect e mostra vídeos de exercícios feitos por outras pessoas por meio do YouTube. Eles pertencem aos seus donos e seguem seus próprios termos e políticas. O desenvolvedor não os controla e não é responsável pelo conteúdo, pela exatidão ou pela disponibilidade deles. Um vídeo é exibido para informação, não como recomendação.
+O SetJot pode funcionar com o Apple Saúde ou o Health Connect e mostra vídeos de exercícios feitos por outras pessoas por meio do YouTube. Eles pertencem aos seus donos e seguem seus próprios termos e políticas. O desenvolvedor não os controla e não é responsável pelo conteúdo, pela exatidão ou pela disponibilidade deles. Um vídeo é exibido para informação, não como endosso.
 
 O SetJot exibe anúncios fornecidos pelo Google AdMob. Os anúncios e os produtos e serviços que promovem vêm de terceiros. O desenvolvedor não os cria, escolhe nem endossa e não é responsável por eles, e qualquer relação que você tiver com um anunciante é entre você e esse anunciante.
 
@@ -79,9 +79,9 @@ Estes termos podem ser atualizados. A data no topo mostra a versão mais recente
 
 ## 14. Encerramento
 
-Você pode parar a qualquer momento apagando o app. As partes destes termos que, por sua natureza, devem continuar valendo, como as sobre propriedade, ausência de garantia, limitação de responsabilidade e indenização, continuam valendo depois.
+Você pode parar a qualquer momento apagando o app. As partes destes termos que, por sua natureza, devem continuar valendo, como as que tratam de propriedade, ausência de garantia, limitação de responsabilidade e indenização, continuam valendo depois.
 
-## 15. Divisibilidade e acordo integral
+## 15. Independência das cláusulas e acordo integral
 
 Se qualquer parte destes termos for considerada inválida ou inexequível, ela será limitada ao mínimo necessário ou removida, e o restante continuará em pleno vigor. Estes termos, junto com a Política de Privacidade, são o acordo integral entre você e o desenvolvedor sobre o SetJot. Se o desenvolvedor não exercer um direito, isso não significa que renunciou a ele.
 
