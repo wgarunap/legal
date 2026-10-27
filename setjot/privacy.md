@@ -1,6 +1,15 @@
-# SetJot Privacy Policy
+---
+layout: doc
+app: setjot
+title: Privacy Policy
+order: 2
+description: What SetJot stores, what Google AdMob receives, and your choices.
+updated: 2026-10-25
+sections: 15
+---
 
-Last updated: 25 October 2026
+* toc
+{:toc}
 
 ## 1. In short
 
@@ -73,5 +82,3 @@ This policy is written in English. Translations are provided for convenience onl
 ## 15. Contact
 
 Questions: support@setjot.app, or in the app under Settings, About, Contact.
-
-[Terms](terms) · [Privacy Policy](privacy) · [Impressum](../impressum)

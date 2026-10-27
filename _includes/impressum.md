@@ -1,5 +1,3 @@
-# Impressum
-
 Angaben gemäß § 5 DDG / Information according to § 5 DDG
 
 [NAME]  
@@ -16,5 +14,3 @@ E-Mail: support@setjot.app
 **Verbraucherstreitbeilegung / Consumer dispute resolution**  
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.  
 We are not willing or obliged to take part in dispute resolution proceedings before a consumer arbitration board.
-
-[All apps](./) · [SetJot](setjot/)

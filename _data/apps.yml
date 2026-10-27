@@ -1,0 +1,9 @@
+# One entry per app. Its folder holds index.md, terms.md, privacy.md, impressum.md and icon.png.
+- slug: setjot
+  name: SetJot
+  tagline: Gym Tracker & Log
+  summary: An offline workout log. Sessions, routines and body measurements stay on your phone.
+  platforms: iPhone · Android
+  accent: "#0A72D6"
+  accent_dark: "#3DA5FF"
+  support: support@setjot.app

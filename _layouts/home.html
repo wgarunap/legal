@@ -1,0 +1,26 @@
+---
+layout: base
+---
+<main class="wrap">
+  <header class="hub-head">
+    <p class="eyebrow">Legal</p>
+    <h1>Apps</h1>
+    <p class="lede">Pick an app to read its terms of use, privacy policy and Impressum.</p>
+  </header>
+
+  <ul class="apps">
+    {%- for a in site.data.apps %}
+    <li style="--accent-l: {{ a.accent }}; --accent-d: {{ a.accent_dark }}">
+      <a class="app-row" href="{{ '/' | append: a.slug | append: '/' | relative_url }}">
+        <img src="{{ '/' | append: a.slug | append: '/icon.png' | relative_url }}" alt="" width="56" height="56">
+        <span class="app-text">
+          <span class="app-name">{{ a.name }}</span>
+          <span class="app-tag">{{ a.tagline }}</span>
+          <span class="meta">{{ a.platforms }}</span>
+        </span>
+        <span class="chev" aria-hidden="true">→</span>
+      </a>
+    </li>
+    {%- endfor %}
+  </ul>
+</main>

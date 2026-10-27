@@ -1,2 +1,6 @@
 title: Apps
-description: Terms, privacy policies and Impressum
+description: Terms of use, privacy policies and Impressum for my apps.
+markdown: kramdown
+kramdown:
+  auto_ids: true
+exclude: [README.md]

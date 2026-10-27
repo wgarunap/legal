@@ -1,6 +1,15 @@
-# SetJot Terms and Conditions
+---
+layout: doc
+app: setjot
+title: Terms of Use
+order: 1
+description: The agreement for using SetJot.
+updated: 2026-10-25
+sections: 17
+---
 
-Last updated: 25 October 2026
+* toc
+{:toc}
 
 ## 1. Agreement
 
@@ -83,5 +92,3 @@ These terms are written in English. Translations are provided for convenience on
 ## 17. Law and contact
 
 These terms are governed by the laws of the country where the developer lives, without taking away the protections that mandatory consumer law gives you where you live. Questions: support@setjot.app, or in the app under Settings, About, Contact.
-
-[Terms](terms) · [Privacy Policy](privacy) · [Impressum](../impressum)

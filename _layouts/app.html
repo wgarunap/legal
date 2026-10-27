@@ -1,0 +1,36 @@
+---
+layout: base
+---
+{%- assign app = site.data.apps | where: "slug", page.app | first -%}
+{%- assign docs = site.pages | where: "app", page.app | where: "layout", "doc" | sort: "order" -%}
+<main class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">Apps</a></nav>
+
+  <header class="app-head">
+    <img src="{{ '/' | append: app.slug | append: '/icon.png' | relative_url }}" alt="{{ app.name }} icon" width="88" height="88">
+    <div>
+      <h1>{{ app.name }}</h1>
+      <p class="app-tag">{{ app.tagline }}</p>
+      <p class="meta">{{ app.platforms }}</p>
+    </div>
+  </header>
+
+  <p class="lede">{{ app.summary }}</p>
+
+  <ul class="docs">
+    {%- for d in docs %}
+    <li>
+      <a class="doc-row" href="{{ d.url | relative_url | remove: '.html' }}">
+        <span class="doc-text">
+          <span class="doc-name">{{ d.title }}</span>
+          <span class="doc-desc">{{ d.description }}</span>
+          {% if d.updated %}<span class="meta">{% if d.sections %}{{ d.sections }} sections · {% endif %}Updated {{ d.updated | date: "%-d %B %Y" }}</span>{% endif %}
+        </span>
+        <span class="chev" aria-hidden="true">→</span>
+      </a>
+    </li>
+    {%- endfor %}
+  </ul>
+
+  <p class="support">Questions? Write to <span class="mail">{{ app.support }}</span></p>
+</main>
