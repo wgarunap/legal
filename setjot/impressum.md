@@ -1,9 +1,10 @@
 ---
-layout: doc
-app: setjot
-title: Impressum
-order: 3
-description: Who publishes SetJot and how to reach them.
+layout: "doc"
+title: "Impressum"
+description: "Who publishes SetJot."
+order: 4
+app: "setjot"
+lang: "en"
 ---
 
 {% include impressum.md %}

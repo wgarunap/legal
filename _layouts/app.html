@@ -2,7 +2,8 @@
 layout: base
 ---
 {%- assign app = site.data.apps | where: "slug", page.app | first -%}
-{%- assign docs = site.pages | where: "app", page.app | where: "layout", "doc" | sort: "order" -%}
+{%- assign lang = page.lang | default: "en" -%}
+{%- assign docs = site.pages | where: "app", page.app | where: "layout", "doc" | where: "lang", lang | sort: "order" -%}
 <main class="wrap">
   <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">Apps</a></nav>
 
@@ -15,7 +16,7 @@ layout: base
     </div>
   </header>
 
-  <p class="lede">{{ app.summary }}</p>
+  {% if lang == "en" %}<p class="lede">{{ app.summary }}</p>{% endif %}
 
   <ul class="docs">
     {%- for d in docs %}
@@ -23,8 +24,8 @@ layout: base
       <a class="doc-row" href="{{ d.url | relative_url | remove: '.html' }}">
         <span class="doc-text">
           <span class="doc-name">{{ d.title }}</span>
-          <span class="doc-desc">{{ d.description }}</span>
-          {% if d.updated %}<span class="meta">{% if d.sections %}{{ d.sections }} sections · {% endif %}Updated {{ d.updated | date: "%-d %B %Y" }}</span>{% endif %}
+          {% if d.description %}<span class="doc-desc">{{ d.description }}</span>{% endif %}
+          {% if d.updated %}<span class="meta">{{ d.updated }}</span>{% endif %}
         </span>
         <span class="chev" aria-hidden="true">→</span>
       </a>
@@ -32,5 +33,12 @@ layout: base
     {%- endfor %}
   </ul>
 
-  <p class="support">Questions? Write to <span class="mail">{{ app.support }}</span></p>
+  <nav class="langs" aria-label="Language">
+    {%- for l in site.data.languages %}
+    {%- capture href %}/{{ app.slug }}/{% unless l.code == "en" %}{{ l.code }}/{% endunless %}{% endcapture %}
+    <a href="{{ href | relative_url }}" lang="{{ l.code }}"{% if l.code == lang %} aria-current="page"{% endif %}>{{ l.name }}</a>
+    {%- endfor %}
+  </nav>
+
+  <p class="support">{{ app.support }}</p>
 </main>

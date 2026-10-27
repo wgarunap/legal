@@ -171,3 +171,62 @@ h1 {
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }
 }
+
+/* Language links on the app page */
+.langs { display: flex; flex-wrap: wrap; gap: 0.25rem 1rem; font-size: 0.9375rem; color: var(--muted); }
+.langs a { text-decoration: none; }
+.langs a:hover { color: var(--fg); text-decoration: underline; }
+.langs a[aria-current="page"] { color: var(--accent); font-weight: 600; }
+
+/* Contact page */
+.contact-mail .mail {
+  display: inline-block;
+  padding: 0.75rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  font-family: var(--display);
+}
+.prose .button {
+  display: inline-block;
+  padding: 0.7rem 1.4rem;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--on-accent);
+  font: 600 1rem/1.2 var(--display);
+  text-decoration: none;
+}
+
+/* Right-to-left */
+[dir="rtl"] .chev { transform: scaleX(-1); }
+[dir="rtl"] .app-row:hover .chev, [dir="rtl"] .doc-row:hover .chev { transform: scaleX(-1) translateX(3px); }
+
+/* Opened inside the app: the app bar already gives the title and back button,
+   so drop site navigation and match SetJot's own colours and type. */
+.embed .site-only { display: none; }
+.embed {
+  --bg: #f2f2f7;
+  --surface: #ffffff;
+  --fg: #0b0b0c;
+  --muted: #5c6167;
+  --line: #d8d8de;
+  --accent: #008cff;
+  --on-accent: #ffffff;
+  --display: "Outfit", system-ui, -apple-system, sans-serif;
+  --text: "Outfit", system-ui, -apple-system, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root.embed:not([data-theme="light"]) {
+    --bg: #000000; --surface: #1c1c1e; --fg: #ffffff; --muted: #83898f; --line: #2c2c2e; --accent: #008cff; --on-accent: #ffffff;
+  }
+}
+:root.embed[data-theme="dark"] {
+  --bg: #000000; --surface: #1c1c1e; --fg: #ffffff; --muted: #83898f; --line: #2c2c2e; --accent: #008cff; --on-accent: #ffffff;
+}
+.embed .wrap { padding-block: 0.5rem 2.5rem; padding-left: max(20px, env(safe-area-inset-left, 0px)); padding-right: max(20px, env(safe-area-inset-right, 0px)); gap: 1.25rem; }
+.embed h1 { font-size: 1.625rem; font-weight: 700; letter-spacing: 0; }
+.embed .doc-head { border-bottom: 0; padding-bottom: 0; gap: 0.4rem; }
+.embed .meta { font-family: var(--display); font-size: 0.8125rem; letter-spacing: 0; }
+.embed .prose { font-size: 0.9375rem; line-height: 1.5; }
+.embed .prose h2 { font-size: 1.0625rem; margin-top: 1.75rem; }
+.embed .prose #markdown-toc { display: none; }

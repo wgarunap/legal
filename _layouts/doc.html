@@ -2,24 +2,26 @@
 layout: base
 ---
 {%- assign app = site.data.apps | where: "slug", page.app | first -%}
-{%- assign docs = site.pages | where: "app", page.app | where: "layout", "doc" | sort: "order" -%}
+{%- assign lang = page.lang | default: "en" -%}
+{%- assign docs = site.pages | where: "app", page.app | where: "layout", "doc" | where: "lang", lang | sort: "order" -%}
+{%- capture home %}/{{ app.slug }}/{% unless lang == "en" %}{{ lang }}/{% endunless %}{% endcapture -%}
 <main class="wrap">
-  <nav class="crumbs" aria-label="Breadcrumb">
+  <nav class="crumbs site-only" aria-label="Breadcrumb">
     <a href="{{ '/' | relative_url }}">Apps</a>
     <span aria-hidden="true">/</span>
-    <a class="crumb-app" href="{{ '/' | append: app.slug | append: '/' | relative_url }}"><img src="{{ '/' | append: app.slug | append: '/icon.png' | relative_url }}" alt="" width="20" height="20">{{ app.name }}</a>
+    <a class="crumb-app" href="{{ home | relative_url }}"><img src="{{ '/' | append: app.slug | append: '/icon.png' | relative_url }}" alt="" width="20" height="20">{{ app.name }}</a>
   </nav>
 
   <header class="doc-head">
     <h1>{{ page.title }}</h1>
-    {% if page.updated %}<p class="meta">Updated {{ page.updated | date: "%-d %B %Y" }} · English text prevails over translations</p>{% endif %}
+    {% if page.updated %}<p class="meta">{{ page.updated }}</p>{% endif %}
   </header>
 
   <article class="prose">
 {{ content }}
   </article>
 
-  <nav class="doc-switch" aria-label="{{ app.name }} documents">
+  <nav class="doc-switch site-only" aria-label="{{ app.name }}">
     {%- for d in docs %}
     <a href="{{ d.url | relative_url | remove: '.html' }}"{% if d.url == page.url %} aria-current="page"{% endif %}>{{ d.title }}</a>
     {%- endfor %}

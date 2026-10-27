@@ -1,11 +1,11 @@
 ---
-layout: doc
-app: setjot
-title: Privacy Policy
+layout: "doc"
+title: "Privacy Policy"
+description: "What SetJot stores, what Google AdMob receives, and your choices."
 order: 2
-description: What SetJot stores, what Google AdMob receives, and your choices.
-updated: 2026-10-25
-sections: 15
+updated: "Last updated 27 October 2026"
+app: "setjot"
+lang: "en"
 ---
 
 * toc
@@ -45,7 +45,7 @@ Rest alerts are optional notifications that your phone schedules by itself. They
 
 ## 7. Internet use
 
-SetJot works offline. It uses the internet for two things. The first is the exercise video: it plays through YouTube’s embedded player when you open it, so YouTube (Google) receives your device’s IP address and technical details, and may store cookies or identifiers under its own privacy policy. SetJot sends YouTube none of your training data. “Open in YouTube” opens the video in the YouTube app or your browser. The second is the ad banner, described under Ads.
+SetJot works offline. It uses the internet for three things. The first is the exercise video: it plays through YouTube’s embedded player when you open it, so YouTube (Google) receives your device’s IP address and technical details, and may store cookies or identifiers under its own privacy policy. SetJot sends YouTube none of your training data. “Open in YouTube” opens the video in the YouTube app or your browser. The second is the ad banner, described under Ads. The third is the legal pages: Terms, Privacy Policy, Contact and Impressum open from the developer’s website, hosted on GitHub Pages, so GitHub receives your device’s IP address and technical details under its own privacy policy. Without a connection, the app shows its built-in copy of the Terms and Privacy Policy.
 
 Exercise pictures and guides are part of the app. SetJot makes no other connections of its own.
 
@@ -81,4 +81,4 @@ This policy is written in English. Translations are provided for convenience onl
 
 ## 15. Contact
 
-Questions: support@setjot.app, or in the app under Settings, About, Contact.
+Questions about privacy: Settings, About, Contact.

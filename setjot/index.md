@@ -1,5 +1,7 @@
 ---
-layout: app
-app: setjot
-title: SetJot
+layout: "app"
+title: "SetJot"
+app: "setjot"
+lang: "en"
 ---
+
