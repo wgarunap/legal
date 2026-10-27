@@ -41,7 +41,7 @@ Una volta scritti, i dati risiedono in quell’app di salute, con le sue regole 
 
 ## 6. Notifiche e schermata di blocco
 
-Gli avvisi di recupero sono notifiche facoltative che il telefono programma da solo. Non richiedono server push né account. Su iPhone una Live Activity può mostrare l’allenamento in corso nella schermata di blocco; anche questa viene creata sul dispositivo. Per impostazione predefinita lo schermo resta acceso durante un allenamento; puoi disattivarlo in Impostazioni. Nulla di tutto ciò invia dati altrove.
+Gli avvisi di recupero sono notifiche facoltative che il telefono programma da solo. Non richiedono server push né account. Su iPhone un’Attività Live può mostrare l’allenamento in corso nella schermata di blocco; anche questa viene creata sul dispositivo. Per impostazione predefinita lo schermo resta acceso durante un allenamento; puoi disattivare questa opzione in Impostazioni. Nulla di tutto ciò invia dati altrove.
 
 ## 7. Uso di internet
 

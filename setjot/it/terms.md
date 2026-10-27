@@ -27,7 +27,7 @@ Parla con un professionista qualificato prima di iniziare o cambiare un programm
 
 ## 4. Allenarsi in sicurezza è una tua responsabilità
 
-L’allenamento con i pesi comporta un rischio di infortunio. Sei tu a decidere se, quando e come allenarti. Controlla la tua attrezzatura, usa chi ti assiste e le protezioni dove servono, e scegli esercizi e carichi adatti alle tue capacità.
+L’allenamento con i pesi comporta un rischio di infortunio. Sei tu a decidere se, quando e come allenarti. Controlla la tua attrezzatura, fatti assistere da qualcuno e usa le protezioni dove servono, e scegli esercizi e carichi adatti alle tue capacità.
 
 I pesi suggeriti, i calcolatori e i valori corporei sono approssimativi e possono essere sbagliati. Verificali tu stesso prima di fidartene. Sei responsabile delle tue decisioni di allenamento.
 
@@ -55,7 +55,7 @@ L’app, i suoi testi, i disegni e la grafica appartengono allo sviluppatore o a
 
 ## 9. Nessuna garanzia
 
-Nella misura consentita dalla legge, SetJot è fornito “così com’è” e “come disponibile”, senza garanzie di alcun tipo, esplicite o implicite, incluse idoneità a uno scopo particolare, accuratezza, affidabilità e non violazione di diritti altrui.
+Nella misura consentita dalla legge, SetJot è fornito “così com’è” e “secondo disponibilità”, senza garanzie di alcun tipo, esplicite o implicite, incluse idoneità a uno scopo particolare, accuratezza, affidabilità e non violazione di diritti altrui.
 
 Lo sviluppatore non promette che l’app sia priva di errori, funzioni senza interruzioni, protegga i tuoi dati dalla perdita o ti dia un risultato particolare.
 
