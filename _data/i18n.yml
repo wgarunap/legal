@@ -1,9 +1,10 @@
 # Site labels per language; pages without a language use English.
-en: { apps: Apps, website_privacy: Website privacy }
-de: { apps: Apps, website_privacy: Datenschutz der Website }
-es: { apps: Apps, website_privacy: Privacidad del sitio web }
-fr: { apps: Apps, website_privacy: Confidentialité du site }
-zh: { apps: 应用, website_privacy: 网站隐私 }
-hi: { apps: ऐप्स, website_privacy: वेबसाइट गोपनीयता }
-ar: { apps: التطبيقات, website_privacy: خصوصية الموقع }
-ja: { apps: アプリ, website_privacy: ウェブサイトのプライバシー }
+# app_store / play_store: the small line above the store name on the download buttons.
+en: { apps: Apps, website_privacy: Website privacy, app_store: Download on the, play_store: Get it on }
+de: { apps: Apps, website_privacy: Datenschutz der Website, app_store: Laden im, play_store: Jetzt bei }
+es: { apps: Apps, website_privacy: Privacidad del sitio web, app_store: Descárgalo en el, play_store: Disponible en }
+fr: { apps: Apps, website_privacy: Confidentialité du site, app_store: Télécharger dans l’, play_store: Disponible sur }
+zh: { apps: 应用, website_privacy: 网站隐私, app_store: 下载于, play_store: 立即获取于 }
+hi: { apps: ऐप्स, website_privacy: वेबसाइट गोपनीयता, app_store: डाउनलोड करें, play_store: पाएं }
+ar: { apps: التطبيقات, website_privacy: خصوصية الموقع, app_store: حمّله من, play_store: احصل عليه من }
+ja: { apps: アプリ, website_privacy: ウェブサイトのプライバシー, app_store: ダウンロードは, play_store: 今すぐ手に入れよう }

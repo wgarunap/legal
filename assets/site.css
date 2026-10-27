@@ -122,6 +122,15 @@ h1 {
 .app-head img { border-radius: 20px; flex: none; box-shadow: 0 6px 20px color-mix(in srgb, var(--accent) 25%, transparent); }
 .app-head .app-tag { margin: 0.35rem 0 0.25rem; font-size: 1.0625rem; }
 .support { margin: 0; color: var(--muted); }
+/* Store buttons: ink on the page like the stores' own black badges, inverted in dark mode. */
+.stores { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+.store { display: inline-flex; align-items: center; gap: 0.65rem; min-height: 52px; padding: 0.5rem 1.15rem 0.5rem 0.95rem; border-radius: 12px; background: var(--fg); color: var(--bg); text-decoration: none; transition: transform 0.15s ease, box-shadow 0.15s ease; }
+.store:hover { transform: translateY(-1px); box-shadow: 0 8px 20px color-mix(in srgb, var(--fg) 22%, transparent); }
+.store:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.store svg { width: 26px; height: 26px; flex: none; }
+.store span { display: flex; flex-direction: column; line-height: 1.1; font-family: var(--display); }
+.store small { font-size: 0.6875rem; opacity: 0.78; }
+.store b { font-size: 1.1875rem; font-weight: 600; letter-spacing: -0.01em; }
 .mail { color: var(--fg); font-weight: 600; user-select: all; }
 
 /* Document page */
