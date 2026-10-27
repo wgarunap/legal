@@ -1,0 +1,9 @@
+# Site labels per language; pages without a language use English.
+en: { apps: Apps, website_privacy: Website privacy }
+de: { apps: Apps, website_privacy: Datenschutz der Website }
+es: { apps: Apps, website_privacy: Privacidad del sitio web }
+fr: { apps: Apps, website_privacy: Confidentialité du site }
+zh: { apps: 应用, website_privacy: 网站隐私 }
+hi: { apps: ऐप्स, website_privacy: वेबसाइट गोपनीयता }
+ar: { apps: التطبيقات, website_privacy: خصوصية الموقع }
+ja: { apps: アプリ, website_privacy: ウェブサイトのプライバシー }

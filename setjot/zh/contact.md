@@ -1,6 +1,7 @@
 ---
 layout: "doc"
 title: "联系我们"
+description: "如何联系开发者。"
 order: 3
 app: "setjot"
 lang: "zh"

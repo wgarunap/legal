@@ -1,6 +1,7 @@
 ---
 layout: "doc"
 title: "条款与条件"
+description: "使用 SetJot 的协议。"
 order: 1
 updated: "最后更新：2026年10月27日"
 app: "setjot"

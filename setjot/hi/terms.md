@@ -1,6 +1,7 @@
 ---
 layout: "doc"
 title: "नियम और शर्तें"
+description: "SetJot के उपयोग का समझौता।"
 order: 1
 updated: "अंतिम अपडेट: 27/10/2026"
 app: "setjot"

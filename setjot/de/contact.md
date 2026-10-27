@@ -1,6 +1,7 @@
 ---
 layout: "doc"
 title: "Kontakt"
+description: "So erreichst du den Entwickler."
 order: 3
 app: "setjot"
 lang: "de"

@@ -1,6 +1,7 @@
 ---
 layout: "doc"
 title: "隐私政策"
+description: "SetJot 存储什么、Google AdMob 收到什么，以及你的选择。"
 order: 2
 updated: "最后更新：2026年10月27日"
 app: "setjot"

@@ -5,18 +5,18 @@ layout: base
 {%- assign lang = page.lang | default: "en" -%}
 {%- assign docs = site.pages | where: "app", page.app | where: "layout", "doc" | where: "lang", lang | sort: "order" -%}
 <main class="wrap">
-  <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">Apps</a></nav>
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">{{ site.data.i18n[lang].apps }}</a></nav>
 
   <header class="app-head">
     <img src="{{ '/' | append: app.slug | append: '/icon.png' | relative_url }}" alt="{{ app.name }} icon" width="88" height="88">
     <div>
       <h1>{{ app.name }}</h1>
-      <p class="app-tag">{{ app.tagline }}</p>
+      <p class="app-tag">{{ page.tagline | default: app.tagline }}</p>
       <p class="meta">{{ app.platforms }}</p>
     </div>
   </header>
 
-  {% if lang == "en" %}<p class="lede">{{ app.summary }}</p>{% endif %}
+  {% if page.summary %}<p class="lede">{{ page.summary }}</p>{% endif %}
 
   <ul class="docs">
     {%- for d in docs %}

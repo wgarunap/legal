@@ -1,6 +1,7 @@
 ---
 layout: "doc"
 title: "سياسة الخصوصية"
+description: "ما يحفظه SetJot وما تتلقاه Google AdMob وخياراتك."
 order: 2
 updated: "آخر تحديث: 27/10/2026"
 app: "setjot"

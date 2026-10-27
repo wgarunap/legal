@@ -1,6 +1,7 @@
 ---
 layout: "doc"
 title: "Datenschutzerklärung"
+description: "Was SetJot speichert, was Google AdMob erhält und welche Wahl du hast."
 order: 2
 updated: "Zuletzt aktualisiert: 27.10.2026"
 app: "setjot"

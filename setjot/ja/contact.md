@@ -1,6 +1,7 @@
 ---
 layout: "doc"
 title: "お問い合わせ"
+description: "開発者への連絡方法。"
 order: 3
 app: "setjot"
 lang: "ja"

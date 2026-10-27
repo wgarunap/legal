@@ -1,6 +1,7 @@
 ---
 layout: "doc"
 title: "اتصل بنا"
+description: "كيفية التواصل مع المطوّر."
 order: 3
 app: "setjot"
 lang: "ar"

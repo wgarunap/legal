@@ -1,6 +1,7 @@
 ---
 layout: "doc"
 title: "الشروط والأحكام"
+description: "اتفاقية استخدام SetJot."
 order: 1
 updated: "آخر تحديث: 27/10/2026"
 app: "setjot"

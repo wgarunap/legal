@@ -1,6 +1,7 @@
 ---
 layout: "doc"
 title: "Politique de confidentialité"
+description: "Ce que SetJot enregistre, ce que reçoit Google AdMob et tes choix."
 order: 2
 updated: "Dernière mise à jour : 27/10/2026"
 app: "setjot"

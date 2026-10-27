@@ -1,6 +1,7 @@
 ---
 layout: "doc"
 title: "गोपनीयता नीति"
+description: "SetJot क्या सहेजता है, Google AdMob को क्या मिलता है, और आपके विकल्प।"
 order: 2
 updated: "अंतिम अपडेट: 27/10/2026"
 app: "setjot"
