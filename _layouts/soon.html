@@ -16,7 +16,7 @@ layout: base
     <img src="{{ '/' | append: app.slug | append: '/icon.png' | relative_url }}" alt="{{ app.name }} icon" width="96" height="96">
     <p class="soon-tag">{{ app.name }}</p>
     <h1>{{ t.soon_title }}</h1>
-    <p class="lede">{{ t.soon_body | replace: "{name}", app.name }}</p>
-    <a class="soon-back" href="{{ home | relative_url }}">{{ t.soon_back | replace: "{name}", app.name }}</a>
+    <p class="lede">{{ t.soon_body | replace: "%name%", app.name }}</p>
+    <a class="soon-back" href="{{ home | relative_url }}">{{ t.soon_back | replace: "%name%", app.name }}</a>
   </section>
 </main>
