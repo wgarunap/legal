@@ -19,3 +19,5 @@ ja: { apps: アプリ, website_privacy: ウェブサイトのプライバシー,
       soon_title: 近日公開, soon_body: "%name% はまもなく App Store と Google Play で公開されます。もうしばらくお待ちください。", soon_back: "%name% に戻る" }
 pt: { apps: Apps, website_privacy: Privacidade do site, app_store: Baixar na, play_store: Disponível no,
       soon_title: Em breve, soon_body: "O %name% chegará em breve à App Store e ao Google Play. Volte logo.", soon_back: "Voltar para %name%" }
+ko: { apps: 앱, website_privacy: 웹사이트 개인정보, app_store: 다운로드, play_store: 다운로드,
+      soon_title: 곧 출시돼요, soon_body: "%name% 앱이 곧 App Store와 Google Play에 출시돼요. 조금만 기다려 주세요.", soon_back: "%name% 앱으로 돌아가기" }
