@@ -63,7 +63,7 @@ Geliştirici, uygulamanın hatasız olacağını, kesintisiz çalışacağını,
 
 Yasanın izin verdiği en geniş ölçüde geliştirici; SetJot’u kullanmaktan ya da kullanamamaktan, içindeki herhangi bir şeye uymaktan veya güvenmekten ya da üçüncü taraf hizmetlerinden, içeriklerinden ve reklamlarından kaynaklanan veya bunlarla ilgili her türlü yaralanmadan, hastalıktan, ölümden, zarardan, veri kaybından, kâr kaybından veya başka türden bir kayıptan; doğrudan, dolaylı, arızi, özel, sonuç olarak ortaya çıkan ya da cezai olsun ve hukuki dayanak ne olursa olsun, sorumlu değildir. Buna rağmen geliştirici sorumlu bulunursa, toplam sorumluluğu talepten önceki on iki ayda SetJot için ödediğin tutarla sınırlıdır; bu tutar sıfır olabilir.
 
-Bu şartlardaki hiçbir şey, yasa gereği hariç tutulamayan ya da sınırlanamayan sorumluluğu (kasıt veya ağır ihmal nedeniyle doğan sorumluluk, yasanın hariç tutulmasına izin vermediği hâllerde ihmalin yol açtığı ölüm veya kişisel yaralanma, ya da yaşadığın yerde sahip olduğun yasal tüketici hakları gibi) hariç tutmaz veya sınırlamaz.
+Bu şartlardaki hiçbir şey, yasa gereği hariç tutulamayan ya da sınırlanamayan sorumluluğu (kasıt veya ağır ihmal nedeniyle doğan sorumluluk, yasanın hariç tutulmasına izin vermediği hâllerde ihmalin yol açtığı ölüm veya kişisel yaralanmadan doğan sorumluluk ya da yaşadığın yerde sahip olduğun yasal tüketici hakları gibi) hariç tutmaz veya sınırlamaz.
 
 ## 11. Tazminat
 
@@ -83,7 +83,7 @@ Uygulamayı silerek istediğin zaman bırakabilirsin. Bu şartların, doğası g
 
 ## 15. Bölünebilirlik ve tam sözleşme
 
-Bu şartların herhangi bir bölümü geçersiz ya da uygulanamaz bulunursa, gereken asgari ölçüye sınırlanır veya çıkarılır ve geri kalanı tam olarak yürürlükte kalır. Bu şartlar, Gizlilik Politikası ile birlikte, SetJot konusunda seninle geliştirici arasındaki sözleşmenin tamamıdır. Geliştiricinin bir hakkı kullanmaması, o haktan feragat ettiği anlamına gelmez.
+Bu şartların herhangi bir bölümü geçersiz ya da uygulanamaz bulunursa, gereken asgari ölçüye sınırlanır veya çıkarılır ve geri kalanı tam olarak yürürlükte kalır. Bu şartlar, Gizlilik Politikası ile birlikte, SetJot konusunda seninle geliştirici arasındaki sözleşmenin tamamıdır. Geliştiricinin bir hakkını ileri sürmemesi, o haktan feragat ettiği anlamına gelmez.
 
 ## 16. Dil
 

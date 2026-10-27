@@ -31,7 +31,7 @@ Birkaç gün set kaydettikten sonra SetJot, İstatistik ekranında günde en faz
 
 Yasanın gerektirdiği yerlerde, örneğin AEA ve Birleşik Krallık’ta, SetJot önce Google’dan bir onay formu gösterir ve reklamları yalnızca izin verirsen yükler. SetJot, seni diğer uygulamalarda izlemek için izin istemez; bu yüzden iPhone’da reklam kimliği paylaşılmaz. Reklam kimliğini cihazının gizlilik ayarlarından sıfırlayabilir veya sınırlayabilirsin. Form senin için geçerliyse, tercihini istediğin zaman Ayarlar, Hakkında, Reklam gizliliği tercihleri bölümünden değiştirebilir veya geri çekebilirsin.
 
-Onayın gerektiği yerlerde reklamlar onayına dayanarak gösterilir; diğer yerlerde, geliştiricinin uygulamayı reklamla finanse etmedeki meşru menfaatine dayanarak. Google bu verileri kendi güvenceleriyle başka ülkelerde, Amerika Birleşik Devletleri dahil, işleyebilir.
+Rızanın gerektiği yerlerde reklamlar rızana dayanarak gösterilir; diğer yerlerde, geliştiricinin uygulamayı reklamla finanse etmedeki meşru menfaatine dayanarak. Google bu verileri kendi güvenceleriyle başka ülkelerde, Amerika Birleşik Devletleri dahil, işleyebilir.
 
 ## 5. Apple Sağlık ve Health Connect
 
@@ -67,11 +67,11 @@ Verilerin cihazında olduğu için onları sen yönetirsin: uygulamada görünt�
 
 Geliştirici senin hakkında veri tutmadığı için, geliştiricinin tarafında erişilecek ya da silinecek bir şey yoktur. Yaşadığın yerdeki gizlilik mevzuatı sana haklar tanıyorsa, bu araçlar ve İletişim seçeneği onları kullanma yoludur. Ayrıca yaşadığın yerdeki bir veri koruma otoritesine şikâyette bulunma hakkına da sahipsin.
 
-GDPR ve benzeri yasalar uyarınca verilerine erişme, onları düzeltme ve silme, işlenmesini kısıtlama veya buna itiraz etme, veri taşınabilirliği ve onayını, geri çekmeden önceki işlemeyi etkilemeden, istediğin zaman geri çekme hakkına sahipsin. Reklamlar için Reklam gizliliği tercihleri’ni kullan; diğer her şey için İletişim’i kullan.
+GDPR ve benzeri yasalar uyarınca verilerine erişme, onları düzeltme ve silme, işlenmesini kısıtlama veya buna itiraz etme, veri taşınabilirliği ve rızanı, geri çekmeden önceki işlemeyi etkilemeden, istediğin zaman geri çekme hakkına sahipsin. Reklamlar için Reklam gizliliği tercihleri’ni kullan; diğer her şey için İletişim’i kullan.
 
 ## 12. Çocuklar
 
-SetJot çocuklara yönelik değildir ve 16 yaşın altındaki kişiler için tasarlanmamıştır. Geliştirici hiç kimseden kişisel bilgi toplamaz. Ebeveynler ve vasiler, gençlerin güvenli antrenman yapmasına yardımcı olmalıdır.
+SetJot çocuklara yönelik değildir ve 16 yaşın altındaki kişilerin kullanımı için öngörülmemiştir. Geliştirici hiç kimseden kişisel bilgi toplamaz. Ebeveynler ve vasiler, gençlerin güvenli antrenman yapmasına yardımcı olmalıdır.
 
 ## 13. Değişiklikler
 
