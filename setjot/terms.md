@@ -91,4 +91,4 @@ These terms are written in English. Translations are provided for convenience on
 
 ## 17. Law and contact
 
-These terms are governed by the laws of the country where the developer lives, without taking away the protections that mandatory consumer law gives you where you live. Questions: Settings, About, Contact.
+These terms are governed by the laws of the country where the developer lives, without taking away the protections that mandatory consumer law gives you where you live. Questions: Settings, About, Contact. The developer’s name and address are in the Impressum.

@@ -1,0 +1,13 @@
+---
+layout: base
+---
+<main class="wrap">
+  <nav class="crumbs site-only" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">Apps</a></nav>
+  <header class="doc-head">
+    <h1>{{ page.title }}</h1>
+    {% if page.updated %}<p class="meta">{{ page.updated }}</p>{% endif %}
+  </header>
+  <article class="prose">
+{{ content }}
+  </article>
+</main>

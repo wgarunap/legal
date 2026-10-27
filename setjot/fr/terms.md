@@ -90,4 +90,4 @@ Ces conditions sont rédigées en anglais. Les traductions sont fournies uniquem
 
 ## 17. Droit applicable et contact
 
-Ces conditions sont régies par le droit du pays où vit le développeur, sans te priver de la protection que le droit impératif de la consommation te donne là où tu vis. Questions : Réglages, À propos, Contact.
+Ces conditions sont régies par le droit du pays où vit le développeur, sans te priver de la protection que le droit impératif de la consommation te donne là où tu vis. Questions : Réglages, À propos, Contact. Le nom et l’adresse du développeur figurent dans « Mentions légales ».

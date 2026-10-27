@@ -47,7 +47,7 @@ Rest alerts are optional notifications that your phone schedules by itself. They
 
 SetJot works offline. It uses the internet for three things. The first is the exercise video: it plays through YouTube’s embedded player when you open it, so YouTube (Google) receives your device’s IP address and technical details, and may store cookies or identifiers under its own privacy policy. SetJot sends YouTube none of your training data. “Open in YouTube” opens the video in the YouTube app or your browser. The second is the ad banner, described under Ads. The third is the legal pages: Terms, Privacy Policy, Contact and Impressum open from the developer’s website, hosted on GitHub Pages, so GitHub receives your device’s IP address and technical details under its own privacy policy. Without a connection, the app shows its built-in copy of the Terms and Privacy Policy.
 
-Exercise pictures and guides are part of the app. SetJot makes no other connections of its own.
+Exercise pictures and guides are part of the app. SetJot makes no other connections of its own. GitHub may process this data in the United States. Loading these pages rests on the developer’s legitimate interest in keeping the legal information current.
 
 ## 8. Exports and sharing
 
@@ -59,13 +59,15 @@ Your phone’s own backup service, such as iCloud or Google backup, may include 
 
 ## 10. If you email the developer
 
-If you write through Contact, the developer receives your email address and your message. They are used to reply and to improve the app, and kept only as long as needed. Email is handled by your provider and the developer’s. Please do not include health details.
+If you write through Contact, the developer receives your email address and your message. They are used to reply and to improve the app, and kept only as long as needed. Email is handled by your provider and the developer’s. Please do not include health details. The legal basis is the developer’s legitimate interest in answering you and improving the app.
 
 ## 11. Your choices and rights
 
 Your data is on your device, so you control it: view, edit, export or delete it in the app, or remove everything by deleting the app. Exports, entries in Apple Health or Health Connect, and device backups are separate copies and are deleted where they are kept.
 
 Because the developer holds no data about you, there is nothing to access or erase on the developer’s side. If you have rights under privacy law where you live, these tools and the Contact option are how you use them. You also have the right to complain to a data protection authority where you live.
+
+Under the GDPR and similar laws you have the right to access, correct and delete your data, to restrict or object to its processing, to data portability, and to withdraw consent at any time without affecting processing before the withdrawal. For ads, use Ad privacy choices; for anything else, use Contact.
 
 ## 12. Children
 
@@ -81,4 +83,4 @@ This policy is written in English. Translations are provided for convenience onl
 
 ## 15. Contact
 
-Questions about privacy: Settings, About, Contact.
+Questions about privacy: Settings, About, Contact. The developer responsible for SetJot (the controller) is named, with a postal address, under Impressum in the app and at wgarunap.github.io/legal/setjot/impressum.

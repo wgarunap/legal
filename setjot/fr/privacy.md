@@ -46,7 +46,7 @@ Les alertes de repos sont des notifications facultatives que ton téléphone pro
 
 SetJot fonctionne hors ligne. Il utilise internet pour trois choses. La première est la vidéo d’exercice : elle est lue par le lecteur intégré de YouTube quand tu l’ouvres, si bien que YouTube (Google) reçoit l’adresse IP et des informations techniques de ton appareil et peut stocker des cookies ou des identifiants selon sa propre politique de confidentialité. SetJot n’envoie à YouTube aucune de tes données d’entraînement. « Ouvrir dans YouTube » ouvre la vidéo dans l’app YouTube ou ton navigateur. La deuxième est la bannière publicitaire, décrite sous Publicité. La troisième, ce sont les pages juridiques : les Conditions, la Politique de confidentialité, Contact et les Mentions légales se chargent depuis le site du développeur, hébergé sur GitHub Pages, si bien que GitHub reçoit l’adresse IP et des informations techniques de ton appareil selon sa propre politique de confidentialité. Hors ligne, l’app affiche sa version intégrée des Conditions et de la Politique de confidentialité.
 
-Les images d’exercices et les guides font partie de l’app. SetJot ne fait aucune autre connexion de son propre chef.
+Les images d’exercices et les guides font partie de l’app. SetJot ne fait aucune autre connexion de son propre chef. GitHub peut traiter ces données aux États-Unis. Le chargement de ces pages repose sur l’intérêt légitime du développeur à garder les informations juridiques à jour.
 
 ## 8. Export et partage
 
@@ -58,13 +58,15 @@ Le service de sauvegarde de ton téléphone, comme iCloud ou la sauvegarde Googl
 
 ## 10. Si tu écris au développeur
 
-Si tu écris via Contact, le développeur reçoit ton adresse e-mail et ton message. Ils servent à te répondre et à améliorer l’app, et ne sont conservés que le temps nécessaire. Les e-mails sont traités par ton fournisseur et par celui du développeur. N’y mets pas de données de santé.
+Si tu écris via Contact, le développeur reçoit ton adresse e-mail et ton message. Ils servent à te répondre et à améliorer l’app, et ne sont conservés que le temps nécessaire. Les e-mails sont traités par ton fournisseur et par celui du développeur. N’y mets pas de données de santé. La base juridique est l’intérêt légitime du développeur à te répondre et à améliorer l’app.
 
 ## 11. Tes choix et tes droits
 
 Tes données sont sur ton appareil, tu les contrôles donc : tu peux les consulter, les modifier, les exporter ou les supprimer dans l’app, ou tout effacer en supprimant l’app. Les exports, les entrées dans Apple Santé ou Health Connect et les sauvegardes de l’appareil sont des copies distinctes, à supprimer là où elles se trouvent.
 
 Comme le développeur ne détient aucune donnée te concernant, il n’y a rien à consulter ni à effacer de son côté. Si tu as des droits en vertu de la loi sur la vie privée là où tu vis, ces outils et l’option Contact te permettent de les exercer. Tu as aussi le droit d’introduire une réclamation auprès d’une autorité de protection des données là où tu vis.
+
+En vertu du RGPD et de lois similaires, tu as le droit d’accéder à tes données, de les rectifier et de les effacer, d’en limiter le traitement ou de t’y opposer, à la portabilité des données et de retirer ton consentement à tout moment, sans que cela affecte le traitement effectué avant le retrait. Pour les publicités, utilise « Choix de confidentialité des publicités » ; pour le reste, « Contact ».
 
 ## 12. Enfants
 
@@ -80,4 +82,4 @@ Cette politique est rédigée en anglais. Les traductions sont fournies uniqueme
 
 ## 15. Contact
 
-Questions sur la confidentialité : Réglages, À propos, Contact.
+Questions sur la confidentialité : Réglages, À propos, Contact. Le développeur responsable de SetJot (responsable du traitement) est indiqué, avec son adresse postale, dans « Mentions légales » dans l’app et sur wgarunap.github.io/legal/setjot/impressum.

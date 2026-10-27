@@ -90,4 +90,4 @@ Diese Bedingungen sind auf Englisch verfasst. Übersetzungen dienen nur der Vers
 
 ## 17. Recht und Kontakt
 
-Diese Bedingungen unterliegen dem Recht des Landes, in dem der Entwickler lebt, ohne dir den Schutz zwingender Verbraucherrechte an deinem Wohnort zu nehmen. Fragen: Einstellungen, Info, Kontakt.
+Diese Bedingungen unterliegen dem Recht des Landes, in dem der Entwickler lebt, ohne dir den Schutz zwingender Verbraucherrechte an deinem Wohnort zu nehmen. Fragen: Einstellungen, Info, Kontakt. Name und Anschrift des Entwicklers stehen im „Impressum“.

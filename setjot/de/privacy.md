@@ -46,7 +46,7 @@ Pausen-Hinweise sind optionale Mitteilungen, die dein Telefon selbst plant. Sie 
 
 SetJot funktioniert offline. Das Internet nutzt es für drei Dinge. Das erste ist das Übungsvideo: Es wird beim Öffnen über den eingebetteten YouTube-Player abgespielt. Dabei erhält YouTube (Google) die IP-Adresse und technische Angaben deines Geräts und kann nach eigener Datenschutzerklärung Cookies oder Kennungen speichern. SetJot sendet YouTube keine deiner Trainingsdaten. „In YouTube öffnen“ öffnet das Video in der YouTube-App oder im Browser. Das zweite ist das Werbebanner, beschrieben unter Werbung. Das dritte sind die rechtlichen Seiten: Nutzungsbedingungen, Datenschutzerklärung, Kontakt und Impressum werden von der Website des Entwicklers bei GitHub Pages geladen. Dabei erhält GitHub die IP-Adresse und technische Angaben deines Geräts nach eigener Datenschutzerklärung. Ohne Verbindung zeigt die App die mitgelieferte Fassung der Nutzungsbedingungen und der Datenschutzerklärung.
 
-Übungsbilder und Guides sind Teil der App. SetJot baut von sich aus keine weiteren Verbindungen auf.
+Übungsbilder und Guides sind Teil der App. SetJot baut von sich aus keine weiteren Verbindungen auf. GitHub kann diese Daten in den USA verarbeiten. Grundlage für das Laden dieser Seiten ist das berechtigte Interesse des Entwicklers, die rechtlichen Informationen aktuell zu halten.
 
 ## 8. Export und Teilen
 
@@ -58,13 +58,15 @@ Der Backup-Dienst deines Telefons, etwa iCloud oder Google-Backup, kann je nach 
 
 ## 10. Wenn du dem Entwickler schreibst
 
-Wenn du über Kontakt schreibst, erhält der Entwickler deine E-Mail-Adresse und deine Nachricht. Sie werden genutzt, um zu antworten und die App zu verbessern, und nur so lange aufbewahrt, wie nötig. E-Mails werden von deinem Anbieter und dem des Entwicklers verarbeitet. Bitte gib keine Gesundheitsdaten an.
+Wenn du über Kontakt schreibst, erhält der Entwickler deine E-Mail-Adresse und deine Nachricht. Sie werden genutzt, um zu antworten und die App zu verbessern, und nur so lange aufbewahrt, wie nötig. E-Mails werden von deinem Anbieter und dem des Entwicklers verarbeitet. Bitte gib keine Gesundheitsdaten an. Rechtsgrundlage ist das berechtigte Interesse des Entwicklers, dir zu antworten und die App zu verbessern.
 
 ## 11. Deine Wahlmöglichkeiten und Rechte
 
 Deine Daten liegen auf deinem Gerät, du kontrollierst sie also: Du kannst sie in der App ansehen, bearbeiten, exportieren oder löschen oder alles durch Löschen der App entfernen. Exporte, Einträge in Apple Health oder Health Connect und Geräte-Backups sind eigene Kopien und werden dort gelöscht, wo sie liegen.
 
 Da der Entwickler keine Daten über dich hält, gibt es auf seiner Seite nichts einzusehen oder zu löschen. Wenn dir nach dem Datenschutzrecht an deinem Wohnort Rechte zustehen, übst du sie über diese Funktionen und die Kontaktoption aus. Du hast außerdem das Recht, dich bei einer Datenschutzaufsichtsbehörde an deinem Wohnort zu beschweren.
+
+Nach der DSGVO und ähnlichen Gesetzen hast du das Recht auf Auskunft, Berichtigung und Löschung deiner Daten, auf Einschränkung der Verarbeitung und Widerspruch dagegen, auf Datenübertragbarkeit sowie darauf, eine Einwilligung jederzeit zu widerrufen, ohne dass die Verarbeitung bis zum Widerruf unrechtmäßig wird. Für Werbung nutze „Datenschutzoptionen für Werbung“, für alles andere „Kontakt“.
 
 ## 12. Kinder
 
@@ -80,4 +82,4 @@ Diese Erklärung ist auf Englisch verfasst. Übersetzungen dienen nur der Verst�
 
 ## 15. Kontakt
 
-Fragen zum Datenschutz: Einstellungen, Info, Kontakt.
+Fragen zum Datenschutz: Einstellungen, Info, Kontakt. Der für SetJot verantwortliche Entwickler (Verantwortlicher) ist mit Postanschrift unter „Impressum“ in der App und unter wgarunap.github.io/legal/setjot/impressum genannt.

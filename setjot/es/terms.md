@@ -90,4 +90,4 @@ Estos términos están redactados en inglés. Las traducciones se ofrecen solo p
 
 ## 17. Ley y contacto
 
-Estos términos se rigen por las leyes del país donde reside el desarrollador, sin quitarte la protección que la normativa imperativa de consumo te da donde vives. Preguntas: Ajustes, Acerca de, Contacto.
+Estos términos se rigen por las leyes del país donde reside el desarrollador, sin quitarte la protección que la normativa imperativa de consumo te da donde vives. Preguntas: Ajustes, Acerca de, Contacto. El nombre y la dirección del desarrollador figuran en «Aviso legal».

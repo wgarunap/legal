@@ -1,3 +1,10 @@
+/* Fonts are served from this site, so no visitor request goes to a third party. */
+@font-face { font-family: "Bricolage Grotesque"; src: url("fonts/bricolage-grotesque.woff2") format("woff2"); font-weight: 400 700; font-display: swap; }
+@font-face { font-family: "Literata"; src: url("fonts/literata.woff2") format("woff2"); font-weight: 400 600; font-display: swap; }
+@font-face { font-family: "IBM Plex Mono"; src: url("fonts/ibm-plex-mono-400.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "IBM Plex Mono"; src: url("fonts/ibm-plex-mono-500.woff2") format("woff2"); font-weight: 500; font-display: swap; }
+@font-face { font-family: "Outfit"; src: url("fonts/outfit.ttf") format("truetype"); font-weight: 100 900; font-display: swap; }
+
 /* Layout: one narrow reading column; the hub is neutral ink, each app page takes its app's accent. */
 :root {
   --bg: #f4f6f9;
@@ -230,3 +237,18 @@ h1 {
 .embed .prose { font-size: 0.9375rem; line-height: 1.5; }
 .embed .prose h2 { font-size: 1.0625rem; margin-top: 1.75rem; }
 .embed .prose #markdown-toc { display: none; }
+
+/* Footer on every site page: the Impressum and website privacy must stay one tap away. */
+.site-foot {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem 1.5rem;
+  padding-block: 0 max(2rem, env(safe-area-inset-bottom, 0px));
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  font: 400 0.875rem/1.4 var(--display);
+  color: var(--muted);
+}
+.site-foot a { text-decoration: none; }
+.site-foot a:hover { color: var(--fg); text-decoration: underline; }

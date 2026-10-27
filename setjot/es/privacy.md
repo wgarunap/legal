@@ -46,7 +46,7 @@ Los avisos de descanso son notificaciones opcionales que tu teléfono programa p
 
 SetJot funciona sin conexión. Usa internet para tres cosas. La primera es el vídeo de ejercicio: se reproduce con el reproductor incrustado de YouTube cuando lo abres, así que YouTube (Google) recibe la dirección IP y datos técnicos de tu dispositivo y puede guardar cookies o identificadores según su propia política de privacidad. SetJot no envía a YouTube ningún dato de tu entrenamiento. «Abrir en YouTube» abre el vídeo en la app de YouTube o en tu navegador. La segunda es el banner publicitario, descrito en Anuncios. La tercera son las páginas legales: los Términos, la Política de privacidad, Contacto y el Aviso legal se cargan desde el sitio web del desarrollador, alojado en GitHub Pages, así que GitHub recibe la dirección IP y datos técnicos de tu dispositivo según su propia política de privacidad. Sin conexión, la app muestra su copia incluida de los Términos y la Política de privacidad.
 
-Las imágenes de ejercicios y las guías forman parte de la app. SetJot no hace por sí misma ninguna otra conexión.
+Las imágenes de ejercicios y las guías forman parte de la app. SetJot no hace por sí misma ninguna otra conexión. GitHub puede tratar estos datos en Estados Unidos. La carga de estas páginas se basa en el interés legítimo del desarrollador en mantener actualizada la información legal.
 
 ## 8. Exportar y compartir
 
@@ -58,13 +58,15 @@ El servicio de copia de tu teléfono, como iCloud o la copia de Google, puede in
 
 ## 10. Si escribes al desarrollador
 
-Si escribes desde Contacto, el desarrollador recibe tu dirección de correo y tu mensaje. Se usan para responder y para mejorar la app, y se conservan solo el tiempo necesario. El correo lo gestionan tu proveedor y el del desarrollador. Por favor, no incluyas datos de salud.
+Si escribes desde Contacto, el desarrollador recibe tu dirección de correo y tu mensaje. Se usan para responder y para mejorar la app, y se conservan solo el tiempo necesario. El correo lo gestionan tu proveedor y el del desarrollador. Por favor, no incluyas datos de salud. La base legal es el interés legítimo del desarrollador en responderte y mejorar la app.
 
 ## 11. Tus opciones y derechos
 
 Tus datos están en tu dispositivo, así que los controlas tú: puedes verlos, editarlos, exportarlos o borrarlos en la app, o eliminar todo borrando la app. Las exportaciones, las entradas en Apple Health o Health Connect y las copias del dispositivo son copias aparte y se borran donde estén guardadas.
 
 Como el desarrollador no guarda datos sobre ti, no hay nada que consultar ni borrar de su lado. Si tienes derechos según la ley de privacidad de donde vives, estas herramientas y la opción de Contacto son la forma de ejercerlos. También tienes derecho a presentar una reclamación ante una autoridad de protección de datos donde vives.
+
+Según el RGPD y leyes similares, tienes derecho a acceder a tus datos, rectificarlos y suprimirlos, a limitar su tratamiento u oponerte a él, a la portabilidad de los datos y a retirar tu consentimiento en cualquier momento, sin que ello afecte al tratamiento anterior a la retirada. Para los anuncios, usa «Opciones de privacidad de anuncios»; para todo lo demás, «Contacto».
 
 ## 12. Menores
 
@@ -80,4 +82,4 @@ Esta política está redactada en inglés. Las traducciones se ofrecen solo por 
 
 ## 15. Contacto
 
-Preguntas sobre privacidad: Ajustes, Acerca de, Contacto.
+Preguntas sobre privacidad: Ajustes, Acerca de, Contacto. El desarrollador responsable de SetJot (responsable del tratamiento) figura, con dirección postal, en «Aviso legal» dentro de la app y en wgarunap.github.io/legal/setjot/impressum.
