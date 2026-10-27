@@ -3,7 +3,7 @@ layout: "doc"
 title: "개인정보 처리방침"
 description: "SetJot이 저장하는 정보, Google AdMob이 받는 정보, 그리고 내가 고를 수 있는 선택."
 order: 2
-updated: "최종 업데이트: 2026年10月27日"
+updated: "최종 업데이트: 2026년 10월 27일"
 app: "setjot"
 lang: "ko"
 ---
