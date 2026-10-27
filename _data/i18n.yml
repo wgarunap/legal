@@ -17,3 +17,5 @@ ar: { apps: التطبيقات, website_privacy: خصوصية الموقع, app_
       soon_title: قريبًا, soon_body: "سيصل %name% قريبًا إلى App Store وGoogle Play. عُد لاحقًا.", soon_back: "العودة إلى %name%" }
 ja: { apps: アプリ, website_privacy: ウェブサイトのプライバシー, app_store: ダウンロードは, play_store: 今すぐ手に入れよう,
       soon_title: 近日公開, soon_body: "%name% はまもなく App Store と Google Play で公開されます。もうしばらくお待ちください。", soon_back: "%name% に戻る" }
+pt: { apps: Apps, website_privacy: Privacidade do site, app_store: Baixe na, play_store: Disponível no,
+      soon_title: Em breve, soon_body: "O %name% chegará em breve à App Store e ao Google Play. Volte logo.", soon_back: "Voltar para %name%" }
