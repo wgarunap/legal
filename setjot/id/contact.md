@@ -7,7 +7,7 @@ app: "setjot"
 lang: "id"
 ---
 
-Ada pertanyaan, bug, atau ide? Tulis ke pengembang. Kalau ada yang tidak berfungsi, sebutkan model ponsel dan versi app-nya. Jangan sertakan data kesehatan ya.
+Ada pertanyaan, bug, atau ide? Tulis ke pengembang. Kalau ada yang tidak berfungsi, sebutkan model ponsel dan versi aplikasinya. Tolong jangan sertakan data kesehatan.
 
 <p class="contact-mail"><span class="mail">support@setjot.app</span></p>
 

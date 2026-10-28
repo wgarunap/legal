@@ -3,7 +3,7 @@ layout: "doc"
 title: "Kebijakan Privasi"
 description: "Apa yang disimpan SetJot, apa yang diterima Google AdMob, dan pilihanmu."
 order: 2
-updated: "Diperbarui terakhir 27 Oktober 2026"
+updated: "Terakhir diperbarui 27 Oktober 2026"
 app: "setjot"
 lang: "id"
 ---
@@ -13,41 +13,41 @@ lang: "id"
 
 ## 1. Singkatnya
 
-SetJot tidak punya akun, analitik, maupun pelacakan oleh pengembang. Apa yang kamu catat tetap di perangkatmu. Pengembang tidak menerimanya dan tidak bisa melihatnya. SetJot sesekali menampilkan banner iklan kecil yang disediakan Google AdMob; iklan itu tidak pernah mendapat data latihanmu.
+SetJot tidak punya akun, analitik, maupun pelacakan oleh pengembang. Apa yang kamu catat tetap di perangkatmu. Pengembang tidak menerimanya dan tidak bisa melihatnya. SetJot sesekali menampilkan banner iklan kecil yang disediakan Google AdMob; AdMob tidak pernah mendapat data latihanmu.
 
 ## 2. Apa yang disimpan di perangkatmu
 
 Sesi, set, rutinitas, folder, dan catatanmu. Ukuran tubuh yang kamu isi, seperti berat badan, lemak tubuh, pinggang, dan tinggi. Detail profil yang kamu pilih untuk diisi, seperti tanggal lahir dan jenis kelamin. Pengaturanmu, seperti satuan, bahasa, tema, dan timer istirahat.
 
-Semuanya disimpan dalam database di penyimpanan privat app di ponselmu.
+Semuanya disimpan dalam database di penyimpanan privat aplikasi di ponselmu.
 
 ## 3. Apa yang dikumpulkan pengembang
 
-Tidak ada. SetJot tidak punya login dan tidak punya server pengembang, dan pengembang tidak menjalankan analitik, pelaporan error, atau pelacakan. Satu-satunya layanan pihak ketiga yang menangani data adalah Google AdMob, yang menampilkan iklan; lihat Iklan.
+Tidak ada. SetJot tidak punya login dan tidak punya server pengembang, dan pengembang tidak menjalankan analitik, pelaporan crash, atau pelacakan. Satu-satunya layanan pihak ketiga yang menangani data adalah Google AdMob, yang menampilkan iklan; lihat Iklan.
 
 ## 4. Iklan
 
-Setelah kamu mencatat set di beberapa hari, SetJot menampilkan banner iklan kecil di layar Statistik, paling sering sekali sehari dan sekitar 20 detik. Iklan berasal dari Google AdMob. Untuk menampilkan iklan, perangkat lunak Google di dalam app mengirim alamat IP perangkatmu, detail perangkat dan app, dan, jika perangkatmu mengizinkan, ID iklannya ke Google, yang dapat memakainya untuk memilih dan mengukur iklan sesuai kebijakan privasi Google. SetJot tidak mengirim data latihan, tubuh, atau kesehatanmu ke Google.
+Setelah kamu mencatat set di beberapa hari, SetJot menampilkan banner iklan kecil di layar Statistik, paling sering sekali sehari, selama sekitar 20 detik. Iklan berasal dari Google AdMob. Untuk menampilkan iklan, perangkat lunak Google di dalam aplikasi mengirim alamat IP perangkatmu, detail perangkat dan aplikasi, dan, jika perangkatmu mengizinkan, ID iklannya ke Google, yang dapat memakainya untuk memilih dan mengukur iklan sesuai kebijakan privasi Google. SetJot tidak mengirim data latihan, tubuh, atau kesehatanmu ke Google.
 
-Jika hukum mewajibkannya, seperti di EEA dan Inggris, SetJot lebih dulu menampilkan formulir persetujuan dari Google dan baru memuat iklan jika kamu mengizinkan. SetJot tidak meminta izin untuk melacakmu di app lain, jadi di iPhone ID iklan tidak dibagikan. Kamu dapat mereset atau membatasi ID iklan di pengaturan privasi perangkatmu. Jika formulir itu berlaku untukmu, kamu dapat mengubah atau menarik pilihanmu kapan saja di Pengaturan, Tentang, Pilihan privasi iklan.
+Jika hukum mewajibkannya, seperti di Wilayah Ekonomi Eropa (EEA) dan Inggris, SetJot lebih dulu menampilkan formulir persetujuan dari Google dan baru memuat iklan jika kamu mengizinkan. SetJot tidak meminta izin untuk melacakmu di aplikasi lain, jadi di iPhone ID iklan tidak dibagikan. Kamu dapat mengatur ulang atau membatasi ID iklan di pengaturan privasi perangkatmu. Jika formulir itu berlaku untukmu, kamu dapat mengubah atau menarik pilihanmu kapan saja di Pengaturan, Tentang, Pilihan privasi iklan.
 
-Jika persetujuan diwajibkan, iklan ditampilkan berdasarkan persetujuanmu; di tempat lain, berdasarkan kepentingan sah pengembang untuk membiayai app lewat iklan. Google dapat memproses data ini di negara lain, termasuk Amerika Serikat, dengan perlindungannya sendiri.
+Jika persetujuan diwajibkan, iklan ditampilkan berdasarkan persetujuanmu; di tempat lain, berdasarkan kepentingan sah pengembang untuk membiayai aplikasi lewat iklan. Google dapat memproses data ini di negara lain, termasuk Amerika Serikat, dengan perlindungannya sendiri.
 
 ## 5. Apple Kesehatan dan Health Connect
 
 Ini bersifat opsional dan baru dimulai setelah kamu mengizinkannya. SetJot menulis latihan selesai serta berat badan, lemak tubuh, tinggi, dan (di Apple Kesehatan) pinggang yang kamu catat. SetJot tidak pernah membaca data kesehatan dari Apple Kesehatan atau Health Connect. Kamu dapat mengubah atau menarik akses kapan saja di pengaturan perangkatmu.
 
-Setelah ditulis, data itu berada di app kesehatan tersebut di bawah aturan privasinya sendiri. SetJot tidak memakainya untuk iklan atau membagikannya kepada siapa pun. Selama sinkronisasi aktif, menghapus sesi atau catatan tubuh di SetJot juga meminta app kesehatan itu menghapus catatan terkait yang ditulis SetJot.
+Setelah ditulis, data itu berada di aplikasi kesehatan tersebut di bawah aturan privasinya sendiri. SetJot tidak memakainya untuk iklan atau membagikannya kepada siapa pun. Selama sinkronisasi aktif, menghapus sesi atau catatan tubuh di SetJot juga meminta aplikasi kesehatan itu menghapus catatan terkait yang ditulis SetJot.
 
-## 6. Notifikasi dan layar kunci
+## 6. Notifikasi dan layar terkunci
 
-Pengingat istirahat adalah notifikasi opsional yang dijadwalkan sendiri oleh ponselmu. Tidak perlu server push dan tidak perlu akun. Di iPhone, Live Activity dapat menampilkan latihanmu saat ini di layar kunci; itu juga dibuat di perangkat. Secara bawaan layar tetap menyala selama sesi; kamu bisa mematikannya di Pengaturan. Tidak satu pun dari ini mengirim data ke mana pun.
+Pengingat istirahat adalah notifikasi opsional yang dijadwalkan sendiri oleh ponselmu. Tidak perlu server push dan tidak perlu akun. Di iPhone, Live Activity dapat menampilkan latihanmu saat ini di layar terkunci; itu juga dibuat di perangkat. Secara bawaan layar tetap menyala selama sesi; kamu bisa mematikannya di Pengaturan. Tidak satu pun dari ini mengirim data ke mana pun.
 
 ## 7. Penggunaan internet
 
-SetJot berfungsi offline. SetJot memakai internet untuk tiga hal. Pertama, video gerakan: video diputar lewat pemutar tersemat YouTube saat kamu membukanya, jadi YouTube (Google) menerima alamat IP dan detail teknis perangkatmu, dan dapat menyimpan cookie atau pengenal sesuai kebijakan privasinya sendiri. SetJot tidak mengirim data latihanmu ke YouTube. “Buka di YouTube” membuka video di app YouTube atau browsermu. Kedua, banner iklan, seperti dijelaskan di Iklan. Ketiga, halaman hukum: Syarat, Kebijakan Privasi, Kontak, dan Impressum dibuka dari situs web pengembang, yang di-host di GitHub Pages, jadi GitHub menerima alamat IP dan detail teknis perangkatmu sesuai kebijakan privasinya sendiri. Tanpa koneksi, app menampilkan salinan bawaan Syarat dan Kebijakan Privasi.
+SetJot berfungsi offline. SetJot memakai internet untuk tiga hal. Pertama, video gerakan: video diputar lewat pemutar tersemat YouTube saat kamu membukanya, jadi YouTube (Google) menerima alamat IP dan detail teknis perangkatmu, dan dapat menyimpan cookie atau pengenal sesuai kebijakan privasinya sendiri. SetJot tidak mengirim data latihanmu ke YouTube. “Buka di YouTube” membuka video di aplikasi YouTube atau browsermu. Kedua, banner iklan, seperti dijelaskan di Iklan. Ketiga, halaman hukum: Syarat, Kebijakan Privasi, Kontak, dan Impressum dibuka dari situs web pengembang, yang di-host di GitHub Pages, jadi GitHub menerima alamat IP dan detail teknis perangkatmu sesuai kebijakan privasinya sendiri. Tanpa koneksi, aplikasi menampilkan salinan bawaan Syarat dan Kebijakan Privasi.
 
-Gambar dan panduan gerakan adalah bagian dari app. SetJot tidak membuat koneksi lain sendiri. GitHub dapat memproses data ini di Amerika Serikat. Pemuatan halaman ini didasarkan pada kepentingan sah pengembang untuk menjaga informasi hukum tetap terbaru.
+Gambar dan panduan gerakan adalah bagian dari aplikasi. SetJot tidak membuat koneksi lain sendiri. GitHub dapat memproses data ini di Amerika Serikat. Pemuatan halaman ini didasarkan pada kepentingan sah pengembang untuk menjaga informasi hukum tetap terbaru.
 
 ## 8. Ekspor dan berbagi
 
@@ -59,15 +59,15 @@ Layanan cadangan bawaan ponselmu, seperti iCloud atau cadangan Google, mungkin m
 
 ## 10. Jika kamu mengirim email ke pengembang
 
-Jika kamu menulis lewat Kontak, pengembang menerima alamat email dan pesanmu. Keduanya dipakai untuk membalas dan memperbaiki app, dan disimpan hanya selama diperlukan. Email ditangani oleh penyediamu dan penyedia pengembang. Mohon jangan sertakan data kesehatan. Dasar hukumnya adalah kepentingan sah pengembang untuk menjawabmu dan memperbaiki app.
+Jika kamu menulis lewat Kontak, pengembang menerima alamat email dan pesanmu. Keduanya dipakai untuk membalas dan memperbaiki aplikasi, dan disimpan hanya selama diperlukan. Email ditangani oleh penyediamu dan penyedia pengembang. Mohon jangan sertakan data kesehatan. Dasar hukumnya adalah kepentingan sah pengembang untuk menjawabmu dan memperbaiki aplikasi.
 
 ## 11. Pilihan dan hakmu
 
-Datamu ada di perangkatmu, jadi kamu yang mengendalikannya: lihat, ubah, ekspor, atau hapus di app, atau hapus semuanya dengan menghapus app. Ekspor, catatan di Apple Kesehatan atau Health Connect, dan cadangan perangkat adalah salinan terpisah dan dihapus di tempat penyimpanannya.
+Datamu ada di perangkatmu, jadi kamu yang mengendalikannya: lihat, ubah, ekspor, atau hapus di aplikasi, atau hapus semuanya dengan menghapus aplikasi. Ekspor, catatan di Apple Kesehatan atau Health Connect, dan cadangan perangkat adalah salinan terpisah dan dihapus di tempat masing-masing disimpan.
 
 Karena pengembang tidak menyimpan data tentangmu, tidak ada yang bisa diakses atau dihapus di sisi pengembang. Jika kamu punya hak menurut hukum privasi di tempat tinggalmu, alat-alat ini dan opsi Kontak adalah cara menggunakannya. Kamu juga berhak mengajukan keluhan ke otoritas perlindungan data di tempat tinggalmu.
 
-Menurut GDPR dan undang-undang serupa, kamu berhak mengakses, memperbaiki, dan menghapus datamu, membatasi atau menolak pemrosesannya, atas portabilitas data, dan menarik persetujuan kapan saja tanpa memengaruhi pemrosesan sebelum penarikan. Untuk iklan, gunakan Pilihan privasi iklan; untuk hal lain, gunakan Kontak.
+Menurut GDPR dan undang-undang serupa, kamu berhak mengakses, memperbaiki, dan menghapus datamu, membatasi atau menolak pemrosesannya, memindahkan datamu (portabilitas data), dan menarik persetujuan kapan saja tanpa memengaruhi pemrosesan sebelum penarikan. Untuk iklan, gunakan Pilihan privasi iklan; untuk hal lain, gunakan Kontak.
 
 ## 12. Anak-anak
 
@@ -83,4 +83,4 @@ Kebijakan ini ditulis dalam bahasa Inggris. Terjemahan disediakan hanya untuk ke
 
 ## 15. Kontak
 
-Pertanyaan tentang privasi: Pengaturan, Tentang, Kontak. Pengembang yang bertanggung jawab atas SetJot (pengendali data) disebutkan namanya, beserta alamat pos, di Impressum dalam app dan di wgarunap.github.io/legal/setjot/impressum.
+Pertanyaan tentang privasi: Pengaturan, Tentang, Kontak. Pengembang yang bertanggung jawab atas SetJot (pengendali data) disebutkan namanya, beserta alamat pos, di Impressum dalam aplikasi dan di wgarunap.github.io/legal/setjot/impressum.
