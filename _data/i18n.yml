@@ -25,5 +25,5 @@ it: { apps: App, website_privacy: Privacy del sito web, app_store: Scarica su, p
       soon_title: In arrivo, soon_body: "%name% arriverà presto su App Store e Google Play. Torna a trovarci.", soon_back: "Torna a %name%" }
 tr: { apps: Uygulamalar, website_privacy: Web sitesi gizliliği, app_store: Buradan indirin, play_store: Buradan edinin,
       soon_title: Çok yakında, soon_body: "%name% yakında App Store ve Google Play’de olacak. Yakında tekrar uğra.", soon_back: "%name% sayfasına dön" }
-pl: { apps: Aplikacje, website_privacy: Prywatność strony, app_store: Pobierz z, play_store: Pobierz z,
+pl: { apps: Aplikacje, website_privacy: Prywatność strony, app_store: Pobierz w, play_store: Pobierz z,
       soon_title: Wkrótce, soon_body: "%name% wkrótce pojawi się w App Store i Google Play. Zajrzyj tu niedługo.", soon_back: "Wróć do %name%" }

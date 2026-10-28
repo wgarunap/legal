@@ -29,19 +29,19 @@ Nic. SetJot nie ma logowania ani serwerów twórcy, a twórca nie prowadzi anali
 
 Gdy zapiszesz serie w kilku dniach, SetJot pokazuje mały baner reklamowy na ekranie Statystyki, najwyżej raz dziennie i przez około 20 sekund. Reklamy pochodzą od Google AdMob. Aby wyświetlić reklamę, oprogramowanie Google w aplikacji wysyła do Google adres IP twojego urządzenia, dane urządzenia i aplikacji oraz, jeśli urządzenie na to pozwala, jego identyfikator reklamowy, a Google może ich używać do wyboru i pomiaru reklam zgodnie z polityką prywatności Google. SetJot nie wysyła do Google żadnych twoich danych treningowych, danych ciała ani zdrowotnych.
 
-Tam, gdzie wymaga tego prawo, na przykład w EOG i Wielkiej Brytanii, SetJot najpierw pokazuje formularz zgody od Google i ładuje reklamy tylko wtedy, gdy się zgodzisz. SetJot nie prosi o pozwolenie na śledzenie cię w innych aplikacjach, więc na iPhonie identyfikator reklamowy nie jest udostępniany. Możesz zresetować lub ograniczyć identyfikator reklamowy w ustawieniach prywatności urządzenia. Jeśli formularz cię dotyczy, możesz w dowolnym momencie zmienić lub wycofać swój wybór w Ustawienia, O aplikacji, Ustawienia prywatności reklam.
+Tam, gdzie wymaga tego prawo, na przykład w EOG i Wielkiej Brytanii, SetJot najpierw pokazuje formularz zgody od Google i ładuje reklamy tylko wtedy, gdy się zgodzisz. SetJot nie prosi o pozwolenie na śledzenie cię w innych aplikacjach, więc na iPhonie identyfikator reklamowy nie jest udostępniany. Możesz zresetować lub ograniczyć identyfikator reklamowy w ustawieniach prywatności urządzenia. Jeśli formularz cię dotyczy, możesz w dowolnym momencie zmienić lub wycofać swój wybór w menu Ustawienia, O aplikacji, Ustawienia prywatności reklam.
 
 Tam, gdzie wymagana jest zgoda, reklamy są wyświetlane na podstawie twojej zgody; w innych miejscach na podstawie prawnie uzasadnionego interesu twórcy w finansowaniu aplikacji z reklam. Google może przetwarzać te dane w innych krajach, w tym w Stanach Zjednoczonych, na podstawie własnych zabezpieczeń.
 
 ## 5. Apple Zdrowie i Health Connect
 
-To opcja, która rusza dopiero po twojej zgodzie. SetJot zapisuje twoje zakończone treningi oraz wagę, tkankę tłuszczową, wzrost i (w Apple Zdrowie) talię, które wpisujesz. Nigdy nie odczytuje danych zdrowotnych z Apple Zdrowie ani Health Connect. Dostęp możesz w dowolnym momencie zmienić lub wycofać w ustawieniach urządzenia.
+Jest to opcjonalne i działa dopiero po wyrażeniu przez ciebie zgody. SetJot zapisuje twoje zakończone treningi oraz wagę, tkankę tłuszczową, wzrost i (w Apple Zdrowie) talię, które wpisujesz. Nigdy nie odczytuje danych zdrowotnych z Apple Zdrowie ani Health Connect. Dostęp możesz w dowolnym momencie zmienić lub wycofać w ustawieniach urządzenia.
 
 Po zapisaniu dane znajdują się w tej aplikacji zdrowotnej i podlegają jej zasadom prywatności. SetJot nie używa ich do reklam ani nikomu ich nie udostępnia. Gdy synchronizacja jest włączona, usunięcie treningu lub wpisu ciała w SetJot prosi też aplikację zdrowotną o usunięcie odpowiadającego wpisu, który zapisał SetJot.
 
 ## 6. Powiadomienia i ekran blokady
 
-Alerty przerw to opcjonalne powiadomienia, które telefon planuje sam. Nie potrzebują serwera push ani konta. Na iPhonie Live Activity może pokazywać bieżący trening na ekranie blokady; jest ona tworzona również na urządzeniu. Domyślnie ekran pozostaje włączony podczas treningu; możesz to wyłączyć w Ustawieniach. Nic z tego nie wysyła danych nigdzie.
+Alerty przerw to opcjonalne powiadomienia, które telefon planuje sam. Nie potrzebują serwera push ani konta. Na iPhonie Live Activity może pokazywać bieżący trening na ekranie blokady; jest ona tworzona również na urządzeniu. Domyślnie ekran pozostaje włączony podczas treningu; możesz to wyłączyć w Ustawieniach. Żadna z tych funkcji nigdzie nie wysyła danych.
 
 ## 7. Korzystanie z internetu
 
@@ -59,7 +59,7 @@ Wbudowana usługa kopii zapasowych telefonu, taka jak iCloud lub kopia Google, m
 
 ## 10. Jeśli napiszesz do twórcy
 
-Jeśli napiszesz przez Kontakt, twórca otrzyma twój adres e-mail i wiadomość. Są używane do odpowiedzi i ulepszania aplikacji i przechowywane tylko tak długo, jak to potrzebne. E-mail obsługuje twój dostawca i dostawca twórcy. Prosimy, nie podawaj danych zdrowotnych. Podstawą prawną jest prawnie uzasadniony interes twórcy w odpowiadaniu na wiadomości i ulepszaniu aplikacji.
+Jeśli napiszesz przez Kontakt, twórca otrzyma twój adres e-mail i wiadomość. Są używane do odpowiedzi i ulepszania aplikacji i przechowywane tylko tak długo, jak to potrzebne. E-mail obsługuje twój dostawca i dostawca twórcy. Nie podawaj danych zdrowotnych. Podstawą prawną jest prawnie uzasadniony interes twórcy w odpowiadaniu na wiadomości i ulepszaniu aplikacji.
 
 ## 11. Twoje wybory i prawa
 
