@@ -3,7 +3,7 @@ layout: "doc"
 title: "Kebijakan Privasi"
 description: "Apa yang disimpan SetJot, apa yang diterima Google AdMob, dan pilihanmu."
 order: 2
-updated: "Terakhir diperbarui 27 Oktober 2026"
+updated: "Terakhir diperbarui 28 Oktober 2026"
 app: "setjot"
 lang: "id"
 ---
@@ -31,7 +31,7 @@ Setelah kamu mencatat set di beberapa hari, SetJot menampilkan banner iklan keci
 
 Jika hukum mewajibkannya, seperti di Wilayah Ekonomi Eropa (EEA) dan Inggris, SetJot lebih dulu menampilkan formulir persetujuan dari Google dan baru memuat iklan jika kamu mengizinkan. SetJot tidak meminta izin untuk melacakmu di aplikasi lain, jadi di iPhone ID iklan tidak dibagikan. Kamu dapat mengatur ulang atau membatasi ID iklan di pengaturan privasi perangkatmu. Jika formulir itu berlaku untukmu, kamu dapat mengubah atau menarik pilihanmu kapan saja di Pengaturan, Tentang, Pilihan privasi iklan.
 
-Jika persetujuan diwajibkan, iklan ditampilkan berdasarkan persetujuanmu; di tempat lain, berdasarkan kepentingan sah pengembang untuk membiayai aplikasi lewat iklan. Google dapat memproses data ini di negara lain, termasuk Amerika Serikat, dengan perlindungannya sendiri.
+Jika persetujuan diwajibkan, iklan ditampilkan berdasarkan persetujuanmu; di tempat lain, berdasarkan kepentingan sah pengembang untuk membiayai aplikasi lewat iklan. Google dapat memproses data ini di negara lain, termasuk Amerika Serikat, dengan perlindungan seperti Kerangka Privasi Data UE-AS dan klausul kontrak standar Komisi Eropa.
 
 ## 5. Apple Kesehatan dan Health Connect
 
@@ -47,7 +47,7 @@ Pengingat istirahat adalah notifikasi opsional yang dijadwalkan sendiri oleh pon
 
 SetJot berfungsi offline. SetJot memakai internet untuk tiga hal. Pertama, video gerakan: video diputar lewat pemutar tersemat YouTube saat kamu membukanya, jadi YouTube (Google) menerima alamat IP dan detail teknis perangkatmu, dan dapat menyimpan cookie atau pengenal sesuai kebijakan privasinya sendiri. SetJot tidak mengirim data latihanmu ke YouTube. “Buka di YouTube” membuka video di aplikasi YouTube atau browsermu. Kedua, banner iklan, seperti dijelaskan di Iklan. Ketiga, halaman hukum: Syarat, Kebijakan Privasi, Kontak, dan Impressum dibuka dari situs web pengembang, yang di-host di GitHub Pages, jadi GitHub menerima alamat IP dan detail teknis perangkatmu sesuai kebijakan privasinya sendiri. Tanpa koneksi, aplikasi menampilkan salinan bawaan Syarat dan Kebijakan Privasi.
 
-Gambar dan panduan gerakan adalah bagian dari aplikasi. SetJot tidak membuat koneksi lain sendiri. GitHub dapat memproses data ini di Amerika Serikat. Pemuatan halaman ini didasarkan pada kepentingan sah pengembang untuk menjaga informasi hukum tetap terbaru.
+Gambar dan panduan gerakan adalah bagian dari aplikasi. SetJot tidak membuat koneksi lain sendiri. GitHub dapat memproses data ini di Amerika Serikat dengan perlindungan seperti Kerangka Privasi Data UE-AS dan klausul kontrak standar Komisi Eropa. Pemuatan halaman ini didasarkan pada kepentingan sah pengembang untuk menjaga informasi hukum tetap terbaru.
 
 ## 8. Ekspor dan berbagi
 

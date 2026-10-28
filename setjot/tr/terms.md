@@ -3,7 +3,7 @@ layout: "doc"
 title: "Şartlar ve Koşullar"
 description: "SetJot’u kullanma sözleşmesi."
 order: 1
-updated: "Son güncelleme: 27 Ekim 2026"
+updated: "Son güncelleme: 28 Ekim 2026"
 app: "setjot"
 lang: "tr"
 ---
@@ -47,7 +47,7 @@ SetJot, Apple Sağlık veya Health Connect ile çalışabilir ve başkalarının
 
 SetJot, Google AdMob tarafından sağlanan reklamlar gösterir. Reklamlar ve tanıttıkları ürün ve hizmetler üçüncü taraflardan gelir. Geliştirici bunları oluşturmaz, seçmez ya da onaylamaz ve bunlardan sorumlu değildir; bir reklam verenle olan her işlemin seninle o reklam veren arasındadır.
 
-Cihazının uygulama mağazasının da uygulamayı kullanmana uygulanan kendi şartları olabilir.
+SetJot’u indirdiğin uygulama mağazasının şartları da geçerlidir. Apple ve Google bu şartların tarafı değildir ve SetJot’tan veya desteğinden sorumlu değildir. SetJot’u Apple’ın App Store’undan indirdiysen Apple ve bağlı şirketleri, üçüncü taraf lehtar olarak bu şartları uygulatabilir.
 
 ## 8. Mülkiyet
 
@@ -75,7 +75,7 @@ Geliştirici, SetJot’u veya özelliklerinden herhangi birini istediği zaman d
 
 ## 13. Bu şartlardaki değişiklikler
 
-Bu şartlar güncellenebilir. Üstteki tarih en son sürümü gösterir. Bir güncellemeden sonra SetJot’u kullanmaya devam edersen güncellenmiş şartları kabul etmiş olursun.
+Bu şartlar güncellenebilir. Üstteki tarih en son sürümü gösterir. Bir güncellemeden sonra SetJot’u kullanmaya devam edersen güncellenmiş şartları kabul etmiş olursun. Değişiklikler, güncellemeden önceki kullanıma uygulanmaz. Kabul etmiyorsan SetJot’u kullanmayı bırak ve sil.
 
 ## 14. Sona erme
 

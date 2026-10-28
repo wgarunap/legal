@@ -3,7 +3,7 @@ layout: "doc"
 title: "Gizlilik Politikası"
 description: "SetJot’un neyi sakladığı, Google AdMob’un neyi aldığı ve tercihlerin."
 order: 2
-updated: "Son güncelleme: 27 Ekim 2026"
+updated: "Son güncelleme: 28 Ekim 2026"
 app: "setjot"
 lang: "tr"
 ---
@@ -31,7 +31,7 @@ Birkaç gün set kaydettikten sonra SetJot, İstatistik ekranında günde en faz
 
 Yasanın gerektirdiği yerlerde, örneğin AEA ve Birleşik Krallık’ta, SetJot önce Google’dan bir onay formu gösterir ve reklamları yalnızca izin verirsen yükler. SetJot, seni diğer uygulamalarda izlemek için izin istemez; bu yüzden iPhone’da reklam kimliği paylaşılmaz. Reklam kimliğini cihazının gizlilik ayarlarından sıfırlayabilir veya sınırlayabilirsin. Form senin için geçerliyse, tercihini istediğin zaman Ayarlar, Hakkında, Reklam gizliliği tercihleri bölümünden değiştirebilir veya geri çekebilirsin.
 
-Rızanın gerektiği yerlerde reklamlar rızana dayanarak gösterilir; diğer yerlerde, geliştiricinin uygulamayı reklamla finanse etmedeki meşru menfaatine dayanarak. Google bu verileri kendi güvenceleriyle başka ülkelerde, Amerika Birleşik Devletleri dahil, işleyebilir.
+Rızanın gerektiği yerlerde reklamlar rızana dayanarak gösterilir; diğer yerlerde, geliştiricinin uygulamayı reklamla finanse etmedeki meşru menfaatine dayanarak. Google bu verileri AB-ABD Veri Gizliliği Çerçevesi ve Avrupa Komisyonu’nun standart sözleşme hükümleri gibi güvencelerle başka ülkelerde, Amerika Birleşik Devletleri dahil, işleyebilir.
 
 ## 5. Apple Sağlık ve Health Connect
 
@@ -47,7 +47,7 @@ Dinlenme uyarıları, telefonunun kendi kendine planladığı isteğe bağlı bi
 
 SetJot çevrimdışı çalışır. İnterneti üç şey için kullanır. Birincisi egzersiz videosudur: açtığında YouTube’un gömülü oynatıcısıyla oynatılır; böylece YouTube (Google) cihazının IP adresini ve teknik ayrıntılarını alır, kendi gizlilik politikası uyarınca çerez veya tanımlayıcı saklayabilir. SetJot, YouTube’a antrenman verilerinden hiçbirini göndermez. “YouTube’da aç”, videoyu YouTube uygulamasında ya da tarayıcında açar. İkincisi, Reklamlar bölümünde anlatılan afiş reklamdır. Üçüncüsü yasal sayfalardır: Şartlar, Gizlilik Politikası, İletişim ve Impressum, GitHub Pages üzerinde barındırılan geliştiricinin web sitesinden açılır; böylece GitHub, kendi gizlilik politikası uyarınca cihazının IP adresini ve teknik ayrıntılarını alır. Bağlantı yokken uygulama, Şartlar ve Gizlilik Politikası’nın kendi içindeki kopyasını gösterir.
 
-Egzersiz resimleri ve rehberleri uygulamanın parçasıdır. SetJot kendiliğinden başka bağlantı kurmaz. GitHub bu verileri Amerika Birleşik Devletleri’nde işleyebilir. Bu sayfaların yüklenmesi, geliştiricinin yasal bilgileri güncel tutmadaki meşru menfaatine dayanır.
+Egzersiz resimleri ve rehberleri uygulamanın parçasıdır. SetJot kendiliğinden başka bağlantı kurmaz. GitHub bu verileri AB-ABD Veri Gizliliği Çerçevesi ve Avrupa Komisyonu’nun standart sözleşme hükümleri gibi güvencelerle Amerika Birleşik Devletleri’nde işleyebilir. Bu sayfaların yüklenmesi, geliştiricinin yasal bilgileri güncel tutmadaki meşru menfaatine dayanır.
 
 ## 8. Dışa aktarma ve paylaşma
 

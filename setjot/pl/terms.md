@@ -3,7 +3,7 @@ layout: "doc"
 title: "Regulamin"
 description: "Zasady korzystania z SetJot."
 order: 1
-updated: "Ostatnia aktualizacja: 27 października 2026"
+updated: "Ostatnia aktualizacja: 28 października 2026"
 app: "setjot"
 lang: "pl"
 ---
@@ -47,7 +47,7 @@ SetJot może współpracować z Apple Zdrowie lub Health Connect i pokazuje prze
 
 SetJot pokazuje reklamy dostarczane przez Google AdMob. Reklamy oraz promowane produkty i usługi pochodzą od podmiotów trzecich. Twórca ich nie tworzy, nie wybiera ani nie rekomenduje i nie odpowiada za nie, a wszelkie relacje z reklamodawcą są sprawą między tobą a tym reklamodawcą.
 
-Sklep z aplikacjami na twoim urządzeniu może mieć też własny regulamin, który dotyczy twojego korzystania z aplikacji.
+Obowiązuje też regulamin sklepu z aplikacjami, z którego pochodzi twoja kopia SetJot. Apple i Google nie są stronami tego regulaminu i nie odpowiadają za SetJot ani za jego wsparcie. Jeśli SetJot pochodzi z App Store firmy Apple, Apple i jej spółki zależne mogą egzekwować ten regulamin jako osoby trzecie uprawnione z umowy.
 
 ## 8. Własność
 
@@ -75,7 +75,7 @@ Twórca może w dowolnym momencie zmienić, zawiesić lub zakończyć SetJot alb
 
 ## 13. Zmiany regulaminu
 
-Ten regulamin może być aktualizowany. Data u góry pokazuje najnowszą wersję. Jeśli po aktualizacji nadal korzystasz z SetJot, akceptujesz zaktualizowany regulamin.
+Ten regulamin może być aktualizowany. Data u góry pokazuje najnowszą wersję. Jeśli po aktualizacji nadal korzystasz z SetJot, akceptujesz zaktualizowany regulamin. Zmiany nie dotyczą korzystania sprzed aktualizacji. Jeśli się nie zgadzasz, przestań korzystać z SetJot i usuń aplikację.
 
 ## 14. Zakończenie
 

@@ -3,7 +3,7 @@ layout: "doc"
 title: "Informativa sulla privacy"
 description: "Cosa conserva SetJot, cosa riceve Google AdMob e le tue scelte."
 order: 2
-updated: "Ultimo aggiornamento: 27 ottobre 2026"
+updated: "Ultimo aggiornamento: 28 ottobre 2026"
 app: "setjot"
 lang: "it"
 ---
@@ -31,7 +31,7 @@ Dopo che hai registrato serie in più giorni, SetJot mostra un piccolo banner pu
 
 Dove la legge lo richiede, come nello SEE e nel Regno Unito, SetJot mostra prima un modulo di consenso di Google e carica gli annunci solo se lo consenti. SetJot non chiede il permesso di tracciarti su altre app, quindi su iPhone l’ID pubblicitario non viene condiviso. Puoi reimpostare o limitare l’ID pubblicitario nelle impostazioni di privacy del dispositivo. Se il modulo ti riguarda, puoi modificare o ritirare la tua scelta in qualsiasi momento in Impostazioni, Info, Scelte sulla privacy degli annunci.
 
-Dove il consenso è richiesto, gli annunci vengono mostrati sulla base del tuo consenso; altrove, sulla base del legittimo interesse dello sviluppatore a finanziare l’app con la pubblicità. Google può trattare questi dati in altri paesi, compresi gli Stati Uniti, con le proprie garanzie.
+Dove il consenso è richiesto, gli annunci vengono mostrati sulla base del tuo consenso; altrove, sulla base del legittimo interesse dello sviluppatore a finanziare l’app con la pubblicità. Google può trattare questi dati in altri paesi, compresi gli Stati Uniti, con garanzie come il quadro UE-USA per la protezione dei dati personali e le clausole contrattuali tipo della Commissione europea.
 
 ## 5. Apple Salute e Health Connect
 
@@ -47,7 +47,7 @@ Gli avvisi di recupero sono notifiche facoltative che il telefono programma da s
 
 SetJot funziona offline. Usa internet per tre cose. La prima è il video dell’esercizio: viene riprodotto tramite il player incorporato di YouTube quando lo apri, quindi YouTube (Google) riceve l’indirizzo IP e i dettagli tecnici del tuo dispositivo e può memorizzare cookie o identificatori secondo la propria informativa sulla privacy. SetJot non invia a YouTube alcun dato di allenamento. “Apri su YouTube” apre il video nell’app YouTube o nel browser. La seconda è il banner pubblicitario, descritto in Annunci. La terza sono le pagine legali: Termini, Informativa sulla privacy, Contatti e Impressum si aprono dal sito web dello sviluppatore, ospitato su GitHub Pages, quindi GitHub riceve l’indirizzo IP e i dettagli tecnici del tuo dispositivo secondo la propria informativa sulla privacy. Senza connessione, l’app mostra la propria copia integrata di Termini e Informativa sulla privacy.
 
-Immagini e guide degli esercizi fanno parte dell’app. SetJot non effettua altre connessioni per conto proprio. GitHub può trattare questi dati negli Stati Uniti. Il caricamento di queste pagine si basa sul legittimo interesse dello sviluppatore a tenere aggiornate le informazioni legali.
+Immagini e guide degli esercizi fanno parte dell’app. SetJot non effettua altre connessioni per conto proprio. GitHub può trattare questi dati negli Stati Uniti, con garanzie come il quadro UE-USA per la protezione dei dati personali e le clausole contrattuali tipo della Commissione europea. Il caricamento di queste pagine si basa sul legittimo interesse dello sviluppatore a tenere aggiornate le informazioni legali.
 
 ## 8. Esportazioni e condivisione
 

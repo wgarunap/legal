@@ -3,7 +3,7 @@ layout: "doc"
 title: "Syarat & Ketentuan"
 description: "Perjanjian untuk memakai SetJot."
 order: 1
-updated: "Terakhir diperbarui 27 Oktober 2026"
+updated: "Terakhir diperbarui 28 Oktober 2026"
 app: "setjot"
 lang: "id"
 ---
@@ -47,7 +47,7 @@ SetJot dapat bekerja dengan Apple Kesehatan atau Health Connect, dan menampilkan
 
 SetJot menampilkan iklan yang disediakan Google AdMob. Iklan dan produk serta layanan yang diiklankan berasal dari pihak ketiga. Pengembang tidak membuat, memilih, atau mendukungnya dan tidak bertanggung jawab atasnya, dan setiap urusanmu dengan pengiklan adalah antara kamu dan pengiklan itu.
 
-Toko aplikasi di perangkatmu mungkin juga memiliki syarat yang berlaku untuk penggunaan aplikasi ini.
+Syarat toko aplikasi tempat kamu mendapatkan SetJot juga berlaku. Apple dan Google bukan pihak dalam syarat ini dan tidak bertanggung jawab atas SetJot atau dukungannya. Jika kamu mendapatkan SetJot dari App Store milik Apple, Apple dan anak perusahaannya dapat menegakkan syarat ini sebagai pihak ketiga penerima manfaat.
 
 ## 8. Kepemilikan
 
@@ -75,7 +75,7 @@ Pengembang dapat mengubah, menangguhkan, atau menghentikan SetJot atau fitur apa
 
 ## 13. Perubahan pada syarat ini
 
-Syarat ini dapat diperbarui. Tanggal di bagian atas menunjukkan versi terbaru. Jika kamu terus memakai SetJot setelah pembaruan, kamu menerima syarat yang telah diperbarui.
+Syarat ini dapat diperbarui. Tanggal di bagian atas menunjukkan versi terbaru. Jika kamu terus memakai SetJot setelah pembaruan, kamu menerima syarat yang telah diperbarui. Perubahan tidak berlaku untuk penggunaan sebelum pembaruan. Jika kamu tidak setuju, berhentilah memakai SetJot dan hapus aplikasinya.
 
 ## 14. Berakhirnya penggunaan
 

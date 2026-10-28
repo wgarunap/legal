@@ -3,7 +3,7 @@ layout: "doc"
 title: "Terms & Conditions"
 description: "The agreement for using SetJot."
 order: 1
-updated: "Last updated 27 October 2026"
+updated: "Last updated 28 October 2026"
 app: "setjot"
 lang: "en"
 ---
@@ -47,7 +47,7 @@ SetJot can work with Apple Health or Health Connect, and shows exercise videos m
 
 SetJot shows ads provided by Google AdMob. The ads and the products and services they promote come from third parties. The developer does not create, choose or endorse them and is not responsible for them, and any dealings you have with an advertiser are between you and that advertiser.
 
-Your device’s app store may also have terms that apply to your use of the app.
+The terms of the app store you got SetJot from also apply. Apple and Google are not parties to these terms and are not responsible for SetJot or its support. If you got SetJot from Apple’s App Store, Apple and its subsidiaries may enforce these terms as third-party beneficiaries.
 
 ## 8. Ownership
 
@@ -75,7 +75,7 @@ The developer may change, suspend or discontinue SetJot or any of its features a
 
 ## 13. Changes to these terms
 
-These terms may be updated. The date at the top shows the latest version. If you keep using SetJot after an update, you accept the updated terms.
+These terms may be updated. The date at the top shows the latest version. If you keep using SetJot after an update, you accept the updated terms. Changes do not apply to use before the update. If you do not agree, stop using SetJot and delete it.
 
 ## 14. Ending
 
