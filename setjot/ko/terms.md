@@ -3,7 +3,7 @@ layout: "doc"
 title: "이용약관"
 description: "SetJot 이용을 위한 약관이에요."
 order: 1
-updated: "최종 업데이트: 2026년 10월 28일"
+updated: "최종 업데이트: 2026년 10월 30일"
 app: "setjot"
 lang: "ko"
 ---

@@ -3,7 +3,7 @@ layout: "doc"
 title: "Politique de confidentialité"
 description: "Ce que SetJot enregistre, ce que reçoit Google AdMob et tes choix."
 order: 2
-updated: "Dernière mise à jour : 28/10/2026"
+updated: "Dernière mise à jour : 30/10/2026"
 app: "setjot"
 lang: "fr"
 ---
@@ -45,9 +45,9 @@ Les alertes de repos sont des notifications facultatives que ton téléphone pro
 
 ## 7. Utilisation d’internet
 
-SetJot fonctionne hors ligne. Il utilise internet pour trois choses. La première est la vidéo d’exercice : elle est lue par le lecteur intégré de YouTube quand tu l’ouvres, si bien que YouTube (Google) reçoit l’adresse IP et des informations techniques de ton appareil et peut stocker des cookies ou des identifiants selon sa propre politique de confidentialité. SetJot n’envoie à YouTube aucune de tes données d’entraînement. « Ouvrir dans YouTube » ouvre la vidéo dans l’app YouTube ou ton navigateur. La deuxième est la bannière publicitaire, décrite sous Publicité. La troisième, ce sont les pages juridiques : les Conditions, la Politique de confidentialité, Contact et les Mentions légales se chargent depuis le site du développeur, hébergé sur GitHub Pages, si bien que GitHub reçoit l’adresse IP et des informations techniques de ton appareil selon sa propre politique de confidentialité. Hors ligne, l’app affiche sa version intégrée des Conditions et de la Politique de confidentialité.
+SetJot fonctionne hors ligne. Il utilise internet pour trois choses. La première est la vidéo d’exercice : elle est lue par le lecteur intégré de YouTube quand tu l’ouvres, si bien que YouTube (Google) reçoit l’adresse IP et des informations techniques de ton appareil et peut stocker des cookies ou des identifiants selon sa propre politique de confidentialité. SetJot n’envoie à YouTube aucune de tes données d’entraînement. « Ouvrir dans YouTube » ouvre la vidéo dans l’app YouTube ou ton navigateur. La deuxième est la bannière publicitaire, décrite sous Publicité. La troisième, ce sont les pages juridiques : les Conditions, la Politique de confidentialité, Contact et les Mentions légales se chargent depuis le site du développeur, hébergé sur GitHub Pages, si bien que GitHub reçoit l’adresse IP et des informations techniques de ton appareil selon sa propre politique de confidentialité. Hors ligne, l’app affiche sa version intégrée des Conditions et de la Politique de confidentialité. À l’ouverture, l’app lit aussi un petit fichier sur le même site pour savoir si une version plus récente de SetJot existe et, quand elle présente les nouveautés, en charge les images depuis ce site. GitHub reçoit les mêmes informations ; SetJot n’envoie rien de ton journal.
 
-Les images d’exercices et les guides font partie de l’app. SetJot ne fait aucune autre connexion de son propre chef. GitHub peut traiter ces données aux États-Unis, avec des garanties telles que le cadre de protection des données UE-États-Unis et les clauses contractuelles types de la Commission européenne. Le chargement de ces pages repose sur l’intérêt légitime du développeur à garder les informations juridiques à jour.
+Les images d’exercices et les guides font partie de l’app. SetJot ne fait aucune autre connexion de son propre chef. GitHub peut traiter ces données aux États-Unis, avec des garanties telles que le cadre de protection des données UE-États-Unis et les clauses contractuelles types de la Commission européenne. Le chargement de ces pages et la vérification des mises à jour reposent sur l’intérêt légitime du développeur à garder les informations juridiques à jour et à te signaler les nouvelles versions.
 
 ## 8. Export et partage
 

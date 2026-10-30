@@ -3,7 +3,7 @@ layout: "doc"
 title: "Datenschutzerklärung"
 description: "Was SetJot speichert, was Google AdMob erhält und welche Wahl du hast."
 order: 2
-updated: "Zuletzt aktualisiert: 28.10.2026"
+updated: "Zuletzt aktualisiert: 30.10.2026"
 app: "setjot"
 lang: "de"
 ---
@@ -45,9 +45,9 @@ Pausen-Hinweise sind optionale Mitteilungen, die dein Telefon selbst plant. Sie 
 
 ## 7. Internetnutzung
 
-SetJot funktioniert offline. Das Internet nutzt es für drei Dinge. Das erste ist das Übungsvideo: Es wird beim Öffnen über den eingebetteten YouTube-Player abgespielt. Dabei erhält YouTube (Google) die IP-Adresse und technische Angaben deines Geräts und kann nach eigener Datenschutzerklärung Cookies oder Kennungen speichern. SetJot sendet YouTube keine deiner Trainingsdaten. „In YouTube öffnen“ öffnet das Video in der YouTube-App oder im Browser. Das zweite ist das Werbebanner, beschrieben unter Werbung. Das dritte sind die rechtlichen Seiten: Nutzungsbedingungen, Datenschutzerklärung, Kontakt und Impressum werden von der Website des Entwicklers bei GitHub Pages geladen. Dabei erhält GitHub die IP-Adresse und technische Angaben deines Geräts nach eigener Datenschutzerklärung. Ohne Verbindung zeigt die App die mitgelieferte Fassung der Nutzungsbedingungen und der Datenschutzerklärung.
+SetJot funktioniert offline. Das Internet nutzt es für drei Dinge. Das erste ist das Übungsvideo: Es wird beim Öffnen über den eingebetteten YouTube-Player abgespielt. Dabei erhält YouTube (Google) die IP-Adresse und technische Angaben deines Geräts und kann nach eigener Datenschutzerklärung Cookies oder Kennungen speichern. SetJot sendet YouTube keine deiner Trainingsdaten. „In YouTube öffnen“ öffnet das Video in der YouTube-App oder im Browser. Das zweite ist das Werbebanner, beschrieben unter Werbung. Das dritte sind die rechtlichen Seiten: Nutzungsbedingungen, Datenschutzerklärung, Kontakt und Impressum werden von der Website des Entwicklers bei GitHub Pages geladen. Dabei erhält GitHub die IP-Adresse und technische Angaben deines Geräts nach eigener Datenschutzerklärung. Ohne Verbindung zeigt die App die mitgelieferte Fassung der Nutzungsbedingungen und der Datenschutzerklärung. Beim Öffnen liest die App außerdem eine kleine Datei auf derselben Website, um zu sehen, ob es eine neuere Version von SetJot gibt, und lädt von dort Bilder zu den Neuerungen, wenn sie diese zeigt. GitHub erhält dieselben Angaben; SetJot sendet nichts aus deinem Trainingstagebuch.
 
-Übungsbilder und Guides sind Teil der App. SetJot baut von sich aus keine weiteren Verbindungen auf. GitHub kann diese Daten in den USA verarbeiten, gestützt auf Garantien wie das EU-US Data Privacy Framework und die Standardvertragsklauseln der Europäischen Kommission. Grundlage für das Laden dieser Seiten ist das berechtigte Interesse des Entwicklers, die rechtlichen Informationen aktuell zu halten.
+Übungsbilder und Guides sind Teil der App. SetJot baut von sich aus keine weiteren Verbindungen auf. GitHub kann diese Daten in den USA verarbeiten, gestützt auf Garantien wie das EU-US Data Privacy Framework und die Standardvertragsklauseln der Europäischen Kommission. Grundlage für das Laden dieser Seiten und die Update-Prüfung ist das berechtigte Interesse des Entwicklers, die rechtlichen Informationen aktuell zu halten und dich über neue Versionen zu informieren.
 
 ## 8. Export und Teilen
 

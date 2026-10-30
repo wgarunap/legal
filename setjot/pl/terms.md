@@ -3,7 +3,7 @@ layout: "doc"
 title: "Regulamin"
 description: "Zasady korzystania z SetJot."
 order: 1
-updated: "Ostatnia aktualizacja: 28 października 2026"
+updated: "Ostatnia aktualizacja: 30 października 2026"
 app: "setjot"
 lang: "pl"
 ---

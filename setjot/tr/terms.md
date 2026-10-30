@@ -3,7 +3,7 @@ layout: "doc"
 title: "Şartlar ve Koşullar"
 description: "SetJot’u kullanma sözleşmesi."
 order: 1
-updated: "Son güncelleme: 28 Ekim 2026"
+updated: "Son güncelleme: 30 Ekim 2026"
 app: "setjot"
 lang: "tr"
 ---

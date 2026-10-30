@@ -3,7 +3,7 @@ layout: "doc"
 title: "Gizlilik Politikası"
 description: "SetJot’un neyi sakladığı, Google AdMob’un neyi aldığı ve tercihlerin."
 order: 2
-updated: "Son güncelleme: 28 Ekim 2026"
+updated: "Son güncelleme: 30 Ekim 2026"
 app: "setjot"
 lang: "tr"
 ---
@@ -45,9 +45,9 @@ Dinlenme uyarıları, telefonunun kendi kendine planladığı isteğe bağlı bi
 
 ## 7. İnternet kullanımı
 
-SetJot çevrimdışı çalışır. İnterneti üç şey için kullanır. Birincisi egzersiz videosudur: açtığında YouTube’un gömülü oynatıcısıyla oynatılır; böylece YouTube (Google) cihazının IP adresini ve teknik ayrıntılarını alır, kendi gizlilik politikası uyarınca çerez veya tanımlayıcı saklayabilir. SetJot, YouTube’a antrenman verilerinden hiçbirini göndermez. “YouTube’da aç”, videoyu YouTube uygulamasında ya da tarayıcında açar. İkincisi, Reklamlar bölümünde anlatılan afiş reklamdır. Üçüncüsü yasal sayfalardır: Şartlar, Gizlilik Politikası, İletişim ve Impressum, GitHub Pages üzerinde barındırılan geliştiricinin web sitesinden açılır; böylece GitHub, kendi gizlilik politikası uyarınca cihazının IP adresini ve teknik ayrıntılarını alır. Bağlantı yokken uygulama, Şartlar ve Gizlilik Politikası’nın kendi içindeki kopyasını gösterir.
+SetJot çevrimdışı çalışır. İnterneti üç şey için kullanır. Birincisi egzersiz videosudur: açtığında YouTube’un gömülü oynatıcısıyla oynatılır; böylece YouTube (Google) cihazının IP adresini ve teknik ayrıntılarını alır, kendi gizlilik politikası uyarınca çerez veya tanımlayıcı saklayabilir. SetJot, YouTube’a antrenman verilerinden hiçbirini göndermez. “YouTube’da aç”, videoyu YouTube uygulamasında ya da tarayıcında açar. İkincisi, Reklamlar bölümünde anlatılan afiş reklamdır. Üçüncüsü yasal sayfalardır: Şartlar, Gizlilik Politikası, İletişim ve Impressum, GitHub Pages üzerinde barındırılan geliştiricinin web sitesinden açılır; böylece GitHub, kendi gizlilik politikası uyarınca cihazının IP adresini ve teknik ayrıntılarını alır. Bağlantı yokken uygulama, Şartlar ve Gizlilik Politikası’nın kendi içindeki kopyasını gösterir. Uygulama açıldığında, SetJot’un daha yeni bir sürümü olup olmadığını anlamak için aynı web sitesindeki küçük bir dosyayı da okur ve yenilikleri gösterirken resimlerini oradan yükler. GitHub aynı bilgileri alır; SetJot kayıtlarından hiçbir şey göndermez.
 
-Egzersiz resimleri ve rehberleri uygulamanın parçasıdır. SetJot kendiliğinden başka bağlantı kurmaz. GitHub bu verileri AB-ABD Veri Gizliliği Çerçevesi ve Avrupa Komisyonu’nun standart sözleşme hükümleri gibi güvencelerle Amerika Birleşik Devletleri’nde işleyebilir. Bu sayfaların yüklenmesi, geliştiricinin yasal bilgileri güncel tutmadaki meşru menfaatine dayanır.
+Egzersiz resimleri ve rehberleri uygulamanın parçasıdır. SetJot kendiliğinden başka bağlantı kurmaz. GitHub bu verileri AB-ABD Veri Gizliliği Çerçevesi ve Avrupa Komisyonu’nun standart sözleşme hükümleri gibi güvencelerle Amerika Birleşik Devletleri’nde işleyebilir. Bu sayfaların yüklenmesi ve güncelleme denetimi, geliştiricinin yasal bilgileri güncel tutma ve seni yeni sürümlerden haberdar etme konusundaki meşru menfaatine dayanır.
 
 ## 8. Dışa aktarma ve paylaşma
 

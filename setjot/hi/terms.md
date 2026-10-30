@@ -3,7 +3,7 @@ layout: "doc"
 title: "नियम और शर्तें"
 description: "SetJot के उपयोग का समझौता।"
 order: 1
-updated: "अंतिम अपडेट: 28/10/2026"
+updated: "अंतिम अपडेट: 30/10/2026"
 app: "setjot"
 lang: "hi"
 ---

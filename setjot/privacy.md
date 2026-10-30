@@ -3,7 +3,7 @@ layout: "doc"
 title: "Privacy Policy"
 description: "What SetJot stores, what Google AdMob receives, and your choices."
 order: 2
-updated: "Last updated 28 October 2026"
+updated: "Last updated 30 October 2026"
 app: "setjot"
 lang: "en"
 ---
@@ -45,9 +45,9 @@ Rest alerts are optional notifications that your phone schedules by itself. They
 
 ## 7. Internet use
 
-SetJot works offline. It uses the internet for three things. The first is the exercise video: it plays through YouTube’s embedded player when you open it, so YouTube (Google) receives your device’s IP address and technical details, and may store cookies or identifiers under its own privacy policy. SetJot sends YouTube none of your training data. “Open in YouTube” opens the video in the YouTube app or your browser. The second is the ad banner, described under Ads. The third is the legal pages: Terms, Privacy Policy, Contact and Impressum open from the developer’s website, hosted on GitHub Pages, so GitHub receives your device’s IP address and technical details under its own privacy policy. Without a connection, the app shows its built-in copy of the Terms and Privacy Policy.
+SetJot works offline. It uses the internet for three things. The first is the exercise video: it plays through YouTube’s embedded player when you open it, so YouTube (Google) receives your device’s IP address and technical details, and may store cookies or identifiers under its own privacy policy. SetJot sends YouTube none of your training data. “Open in YouTube” opens the video in the YouTube app or your browser. The second is the ad banner, described under Ads. The third is the legal pages: Terms, Privacy Policy, Contact and Impressum open from the developer’s website, hosted on GitHub Pages, so GitHub receives your device’s IP address and technical details under its own privacy policy. Without a connection, the app shows its built-in copy of the Terms and Privacy Policy. When the app opens, it also reads a small file on the same website to see whether a newer version of SetJot is out, and loads pictures of what’s new from there when it shows them. GitHub receives the same details; SetJot sends nothing from your log.
 
-Exercise pictures and guides are part of the app. SetJot makes no other connections of its own. GitHub may process this data in the United States, relying on safeguards such as the EU-US Data Privacy Framework and the European Commission’s standard contractual clauses. Loading these pages rests on the developer’s legitimate interest in keeping the legal information current.
+Exercise pictures and guides are part of the app. SetJot makes no other connections of its own. GitHub may process this data in the United States, relying on safeguards such as the EU-US Data Privacy Framework and the European Commission’s standard contractual clauses. Loading these pages and the update check rest on the developer’s legitimate interest in keeping the legal information current and telling you about new versions.
 
 ## 8. Exports and sharing
 

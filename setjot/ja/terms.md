@@ -3,7 +3,7 @@ layout: "doc"
 title: "利用規約"
 description: "SetJot を利用するための契約です。"
 order: 1
-updated: "最終更新：2026年10月28日"
+updated: "最終更新：2026年10月30日"
 app: "setjot"
 lang: "ja"
 ---

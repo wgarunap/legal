@@ -3,7 +3,7 @@ layout: "doc"
 title: "Terms & Conditions"
 description: "The agreement for using SetJot."
 order: 1
-updated: "Last updated 28 October 2026"
+updated: "Last updated 30 October 2026"
 app: "setjot"
 lang: "en"
 ---

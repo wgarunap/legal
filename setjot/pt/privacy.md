@@ -3,7 +3,7 @@ layout: "doc"
 title: "Política de Privacidade"
 description: "O que o SetJot guarda, o que o Google AdMob recebe e as suas escolhas."
 order: 2
-updated: "Última atualização em 28/10/2026"
+updated: "Última atualização em 30/10/2026"
 app: "setjot"
 lang: "pt"
 ---
@@ -45,9 +45,9 @@ Os avisos de descanso são notificações opcionais que o próprio celular agend
 
 ## 7. Uso da internet
 
-O SetJot funciona offline. Ele usa a internet para três coisas. A primeira é o vídeo do exercício: ele é reproduzido pelo player incorporado do YouTube quando você o abre, então o YouTube (Google) recebe o endereço IP do seu aparelho e dados técnicos, e pode guardar cookies ou identificadores conforme a própria política de privacidade. O SetJot não envia ao YouTube nenhum dado de treino. “Abrir no YouTube” abre o vídeo no app do YouTube ou no navegador. A segunda é o banner de anúncio, descrito em Anúncios. A terceira são as páginas legais: Termos, Política de Privacidade, Contato e Impressum abrem a partir do site do desenvolvedor, hospedado no GitHub Pages, então o GitHub recebe o endereço IP do seu aparelho e dados técnicos conforme a própria política de privacidade. Sem conexão, o app mostra a cópia interna dos Termos e da Política de Privacidade.
+O SetJot funciona offline. Ele usa a internet para três coisas. A primeira é o vídeo do exercício: ele é reproduzido pelo player incorporado do YouTube quando você o abre, então o YouTube (Google) recebe o endereço IP do seu aparelho e dados técnicos, e pode guardar cookies ou identificadores conforme a própria política de privacidade. O SetJot não envia ao YouTube nenhum dado de treino. “Abrir no YouTube” abre o vídeo no app do YouTube ou no navegador. A segunda é o banner de anúncio, descrito em Anúncios. A terceira são as páginas legais: Termos, Política de Privacidade, Contato e Impressum abrem a partir do site do desenvolvedor, hospedado no GitHub Pages, então o GitHub recebe o endereço IP do seu aparelho e dados técnicos conforme a própria política de privacidade. Sem conexão, o app mostra a cópia interna dos Termos e da Política de Privacidade. Ao abrir, o app também lê um pequeno arquivo no mesmo site para ver se há uma versão mais nova do SetJot e, quando mostra as novidades, carrega as imagens de lá. O GitHub recebe os mesmos dados; o SetJot não envia nada do seu registro.
 
-As imagens e os guias dos exercícios fazem parte do app. O SetJot não faz nenhuma outra conexão por conta própria. O GitHub pode tratar esses dados nos Estados Unidos, com salvaguardas como o Quadro de Privacidade de Dados UE-EUA e as cláusulas contratuais-padrão da Comissão Europeia. O carregamento dessas páginas se baseia no interesse legítimo do desenvolvedor em manter as informações legais atualizadas.
+As imagens e os guias dos exercícios fazem parte do app. O SetJot não faz nenhuma outra conexão por conta própria. O GitHub pode tratar esses dados nos Estados Unidos, com salvaguardas como o Quadro de Privacidade de Dados UE-EUA e as cláusulas contratuais-padrão da Comissão Europeia. O carregamento dessas páginas e a verificação de atualizações se baseiam no interesse legítimo do desenvolvedor em manter as informações legais atualizadas e avisar você sobre novas versões.
 
 ## 8. Exportação e compartilhamento
 

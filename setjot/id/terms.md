@@ -3,7 +3,7 @@ layout: "doc"
 title: "Syarat & Ketentuan"
 description: "Perjanjian untuk memakai SetJot."
 order: 1
-updated: "Terakhir diperbarui 28 Oktober 2026"
+updated: "Terakhir diperbarui 30 Oktober 2026"
 app: "setjot"
 lang: "id"
 ---

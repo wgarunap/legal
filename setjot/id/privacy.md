@@ -3,7 +3,7 @@ layout: "doc"
 title: "Kebijakan Privasi"
 description: "Apa yang disimpan SetJot, apa yang diterima Google AdMob, dan pilihanmu."
 order: 2
-updated: "Terakhir diperbarui 28 Oktober 2026"
+updated: "Terakhir diperbarui 30 Oktober 2026"
 app: "setjot"
 lang: "id"
 ---
@@ -45,9 +45,9 @@ Pengingat istirahat adalah notifikasi opsional yang dijadwalkan sendiri oleh pon
 
 ## 7. Penggunaan internet
 
-SetJot berfungsi offline. SetJot memakai internet untuk tiga hal. Pertama, video gerakan: video diputar lewat pemutar tersemat YouTube saat kamu membukanya, jadi YouTube (Google) menerima alamat IP dan detail teknis perangkatmu, dan dapat menyimpan cookie atau pengenal sesuai kebijakan privasinya sendiri. SetJot tidak mengirim data latihanmu ke YouTube. “Buka di YouTube” membuka video di aplikasi YouTube atau browsermu. Kedua, banner iklan, seperti dijelaskan di Iklan. Ketiga, halaman hukum: Syarat, Kebijakan Privasi, Kontak, dan Impressum dibuka dari situs web pengembang, yang di-host di GitHub Pages, jadi GitHub menerima alamat IP dan detail teknis perangkatmu sesuai kebijakan privasinya sendiri. Tanpa koneksi, aplikasi menampilkan salinan bawaan Syarat dan Kebijakan Privasi.
+SetJot berfungsi offline. SetJot memakai internet untuk tiga hal. Pertama, video gerakan: video diputar lewat pemutar tersemat YouTube saat kamu membukanya, jadi YouTube (Google) menerima alamat IP dan detail teknis perangkatmu, dan dapat menyimpan cookie atau pengenal sesuai kebijakan privasinya sendiri. SetJot tidak mengirim data latihanmu ke YouTube. “Buka di YouTube” membuka video di aplikasi YouTube atau browsermu. Kedua, banner iklan, seperti dijelaskan di Iklan. Ketiga, halaman hukum: Syarat, Kebijakan Privasi, Kontak, dan Impressum dibuka dari situs web pengembang, yang di-host di GitHub Pages, jadi GitHub menerima alamat IP dan detail teknis perangkatmu sesuai kebijakan privasinya sendiri. Tanpa koneksi, aplikasi menampilkan salinan bawaan Syarat dan Kebijakan Privasi. Saat dibuka, aplikasi juga membaca sebuah file kecil dari situs web yang sama untuk melihat apakah ada versi SetJot yang lebih baru, dan saat menampilkan fitur baru, gambarnya dimuat dari sana. GitHub menerima detail yang sama; SetJot tidak mengirim apa pun dari catatanmu.
 
-Gambar dan panduan gerakan adalah bagian dari aplikasi. SetJot tidak membuat koneksi lain sendiri. GitHub dapat memproses data ini di Amerika Serikat dengan perlindungan seperti Kerangka Privasi Data UE-AS dan klausul kontrak standar Komisi Eropa. Pemuatan halaman ini didasarkan pada kepentingan sah pengembang untuk menjaga informasi hukum tetap terbaru.
+Gambar dan panduan gerakan adalah bagian dari aplikasi. SetJot tidak membuat koneksi lain sendiri. GitHub dapat memproses data ini di Amerika Serikat dengan perlindungan seperti Kerangka Privasi Data UE-AS dan klausul kontrak standar Komisi Eropa. Pemuatan halaman ini dan pemeriksaan pembaruan didasarkan pada kepentingan sah pengembang untuk menjaga informasi hukum tetap terbaru dan memberi tahu kamu tentang versi baru.
 
 ## 8. Ekspor dan berbagi
 
