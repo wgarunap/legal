@@ -1,15 +1,15 @@
 Angaben gemäß § 5 DDG / Information according to § 5 DDG
 
-[NAME]  
-[STREET AND NUMBER]  
-[POSTCODE CITY]  
-[COUNTRY]
+Aruna P W Gunasekara  
+65, Halvitigala, Malgalla  
+Thalangalla, Galle  
+Sri Lanka
 
 **Kontakt / Contact**  
-E-Mail: support@setjot.app
+E-Mail: arunaonline93@gmail.com
 
 **Verantwortlich für den Inhalt / Responsible for content**  
-[NAME], address as above
+Aruna P W Gunasekara, address as above
 
 **Verbraucherstreitbeilegung / Consumer dispute resolution**  
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.  
