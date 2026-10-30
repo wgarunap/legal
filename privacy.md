@@ -8,7 +8,7 @@ This notice covers this website. Each app has its own privacy policy, linked fro
 
 ## Who is responsible
 
-The developer named in the [Impressum](impressum), reachable at support@setjot.app.
+The developer named in the [Impressum](impressum), reachable at arunaonline93@gmail.com.
 
 ## Hosting
 
@@ -32,7 +32,7 @@ You have the right to access, correct and delete your data, to restrict or objec
 
 Diese Hinweise gelten für diese Website. Jede App hat eine eigene Datenschutzerklärung, verlinkt auf ihrer Seite.
 
-**Verantwortlich:** der im [Impressum](impressum) genannte Entwickler, erreichbar unter support@setjot.app.
+**Verantwortlich:** der im [Impressum](impressum) genannte Entwickler, erreichbar unter arunaonline93@gmail.com.
 
 **Hosting:** Diese Website wird bei GitHub Pages von GitHub, Inc. gehostet. Beim Aufruf einer Seite erhält GitHub deine IP-Adresse, die aufgerufene Seite, Datum und Uhrzeit sowie technische Angaben zu deinem Browser und kann sie zum Betrieb und Schutz des Dienstes in Server-Logs speichern. GitHub kann diese Daten in den USA verarbeiten, mit den in seiner [Datenschutzerklärung](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement) beschriebenen Garantien. Rechtsgrundlage ist das berechtigte Interesse des Entwicklers an einem sicheren Angebot dieser Website (Art. 6 Abs. 1 lit. f DSGVO). Der Entwickler erhält diese Logs nicht.
 

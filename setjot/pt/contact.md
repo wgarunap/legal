@@ -9,6 +9,6 @@ lang: "pt"
 
 Dúvida, um bug ou uma ideia? Escreva para o desenvolvedor. Se algo não estiver funcionando, informe o modelo do celular e a versão do app. Não inclua dados de saúde.
 
-<p class="contact-mail"><span class="mail">support@setjot.app</span></p>
+<p class="contact-mail"><span class="mail">arunaonline93@gmail.com</span></p>
 
-<p><a class="button" href="mailto:support@setjot.app?subject=SetJot">Escrever um e-mail</a></p>
+<p><a class="button" href="mailto:arunaonline93@gmail.com?subject=SetJot">Escrever um e-mail</a></p>

@@ -9,6 +9,6 @@ lang: "ko"
 
 질문, 버그, 아이디어가 있나요? 개발자에게 알려 주세요. 문제가 있다면 휴대폰 모델과 앱 버전을 함께 적어 주세요. 건강 관련 정보는 빼 주세요.
 
-<p class="contact-mail"><span class="mail">support@setjot.app</span></p>
+<p class="contact-mail"><span class="mail">arunaonline93@gmail.com</span></p>
 
-<p><a class="button" href="mailto:support@setjot.app?subject=SetJot">이메일 쓰기</a></p>
+<p><a class="button" href="mailto:arunaonline93@gmail.com?subject=SetJot">이메일 쓰기</a></p>
